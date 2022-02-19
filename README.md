@@ -35,6 +35,14 @@ Folder structure of this repo is following mentioned schema:
    2112B-utaite
    ```
 
+   * Format edition title using camelCase model, and exclude any symbols.
+
+     Sample:
+     * kimetsuNoYaiba
+     * valentines
+     * 10kMembersMilestone
+     * haikyuu
+
 5. Add files to staging, note that this might take a time to load.
 6. Commit your artworks with this name format:
 
