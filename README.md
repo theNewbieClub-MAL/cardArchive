@@ -6,23 +6,27 @@ Welcome to the official repo for cards archival project. As the name suggests, t
 
 This repo only includes any cards that have been delivered by designer theirselves, or assisted by deliverer team member.
 
+## Content Index
+
+Please refer to [index.md](index.md)
+
 ## Folder Structure
 
 Folder structure of this repo is following mentioned schema:
 
 ```html
-./<year>/<editionID> - <editionName>/<gfxUsername>/<content>
+./<year>/<editionID>-<editionName>/<gfxUsername>/<content>
 ```
 
 ## Contributing
 
 1. Fork this repository.
 2. Clone forked repository to your machine.
-3. Put your cards based on year, not parent.
-4. Rename title by using this format:
+3. Put your card by following [folder structure](#folder-structure), where `<content>` is your true card content.
+4. Rename edition title by using this format:
 
    ```html
-   <Edition ID>-<Edition title lowercase>
+   <edition>-<Edition title lowercase>
    ```
 
    Sample:
