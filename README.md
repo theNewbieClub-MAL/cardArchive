@@ -18,6 +18,8 @@ Folder structure of this repo is following mentioned schema:
 ./<year>/<editionID>-<editionName>/<gfxUsername>/<content>
 ```
 
+However, for [TNC x HNE Halloween Collab (`2110C`)](2021/2110C-tncXHneHalloweenCollab), the `<gfxUsername>` is not existent. Content is directly in the `2110C-tncXHneHalloweenCollab` folder.
+
 ## Contributing
 
 1. Fork this repository.
