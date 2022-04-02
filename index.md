@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD036 -->
+<!-- markdownlint-disable MD036 MD033 -->
 
 # Content Index
 
@@ -178,15 +178,16 @@
 
 ### February 2022
 
-*No release*
+* [Mahou Shoujo (`2202A`)](2022/2202A-mahouShoujo)
 
 ### March 2022
 
-*No release*
+* [6th Anniversary (`2203A`)](2022/2203A-6thAnniversary)
+* [KONOSUBA! (`2203B`)](2022/2203B-konosuba)
 
 ### April 2022
 
-*No release*
+* [April Fools Day (`2204A`)](2022/2204A-aprilFoolsDay)
 
 ### May 2022
 
