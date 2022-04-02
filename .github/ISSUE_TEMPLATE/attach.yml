@@ -1,0 +1,64 @@
+name: Attach ZIP of missing files by specific staff
+description: Choose this if you downloaded a ZIP file of missing files and want to attach it to the issue.
+title: "[Attach]: ZIP of XYZ Edition by ABC staff"
+labels:
+  - attachment
+assignees:
+  - nattadasu
+body: 
+  - type: markdown
+    attributes:
+      value: >
+        If you have any questions about this issue template, contact:
+        * [nattadasu](https://myanimelist.net/mymessages.php?go=send&toname=nattadasu) as GFX Admin,
+        * [Annie_Law](https://myanimelist.net/mymessages.php?go=send&toname=Annie_Law) as GFX Deputy, or
+        * [Karasian](https://myanimelist.net/mymessages.php?go=send&toname=Karasian) as club owner.
+  - type: input
+    id: issuer
+    attributes:
+      label: Your MAL Username
+      description: Who are you that provides missing files?
+      placeholder: un1corn_tnc
+    validations:
+      required: true
+  - type: input
+    id: editionTopic
+    attributes:
+      label: Edition Topic
+      description: What edition you provided for missing files?
+      placeholder: 6th Anniversary
+    validations:
+      required: true
+  - type: input
+    id: staff
+    attributes:
+      label: Staff in Charge
+      description: Who owns the card designs?
+      placeholder: nattadasu
+    validations:
+      required: true
+  - type: dropdown
+    id: cloudProvider
+    attributes:
+      label: Cloud Provider
+      description: What cloud provider you use to host ZIP file?
+      multiple: false
+      options:
+        - Box
+        - Dropbox
+        - GitHub Repository
+        - Google Drive
+        - Jumpshare
+        - Microsoft OneDrive
+        - Yandex.Disk (Яндекс.Диск)
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: cloudLink
+    attributes:
+      label: Cloud Link
+      description: What is the link to your ZIP file?
+      placeholder: https://drive.google.com/file/d/1-2-3-4-5-6-7-8-9-0/view?usp=sharing
+    validations:
+      required: true
