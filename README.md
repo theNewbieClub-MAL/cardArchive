@@ -4,7 +4,7 @@
 
 Welcome to the official repo for cards archival project. As the name suggests, this repo will be one-all-stop archival from past releases until current releases.
 
-This repo only includes any cards that have been delivered by designer theirselves, or assisted by deliverer team member.
+This repo only includes any cards that have been delivered by designer themselves, or assisted by deliverer team member.
 
 ## Content Index
 
@@ -24,6 +24,12 @@ However, for [TNC x HNE Halloween Collab (`2110C`)](2021/2110C-tncXHneHalloweenC
 
 1. Fork this repository.
 2. Clone forked repository to your machine.
+   * **For Windows/macOS/Linux/BSD**:
+     * Download [GitKraken](https://www.gitkraken.com/download)
+     * Install the programs using recommended steps.
+     * Open GitKraken, Login, and click on `New Repository`
+     * Click on `Clone with URL`, and paste the link to the forked repo.
+     * Open the forked repo in file explorer.
 3. Put your card by following [folder structure](#folder-structure), where `<content>` is your true card content.
 4. Rename edition title by using this format:
 
@@ -46,15 +52,22 @@ However, for [TNC x HNE Halloween Collab (`2110C`)](2021/2110C-tncXHneHalloweenC
      * haikyuu
 
 5. Add files to staging, note that this might take a time to load.
+   * On GitKraken, click on `Stage all changes`.
 6. Commit your artworks with this name format:
 
    ```html
    Cards archival of MAL@<your mal username>
    ```
 
-7. Make a PR.
-8. ???
-9. Profit.
+   * On GitKraken's right sidebar, insert the name format to `Summary`.
+   * Click on `Stage files/changes to commit`.
+7. Click `Push` button on top toolbar.
+8. Make a PR.
+   * From GitKraken left toolbar, click `+` on `Pull request`.
+   * Select your forked repo on "From Repo" drop box, and select theNewbieClub/cardArchive on "To Repo" drop box, with `main` as branch.
+   * Write your PR title, and click `Create Pull Request`.
+9. ???
+10. Profit.
 
 ## Takedown Notice
 
