@@ -62,3 +62,26 @@ body:
       placeholder: https://drive.google.com/file/d/1-2-3-4-5-6-7-8-9-0/view?usp=sharing
     validations:
       required: true
+  - type: dropdown
+    id: format
+    attributes:
+      label: Format
+      description: What format do you use on this link you provided?
+      multiple: false
+      options:
+        - Compressed (ZIP, RAR, 7-Zip, etc.)
+        - Uncompressed (TAR, GZIP, etc.)
+        - Folder
+    validations:
+      required: false
+  - type: dropdown
+    id: provider
+    attributes:
+      label: Link Provider
+      description: Is link you provide is by yourself, designer/deliverer, or by someone else?
+      options:
+        - Myself
+        - Designer/Deliverer, and the link is still valid
+        - Someone else
+    validations:
+      required: true
