@@ -1,0 +1,47 @@
+name: Replace Windows Absolute Path to GitHub RAW Links
+on:
+  push:
+    branches:
+      - gh-pages
+    paths:
+      - index.html
+  workflow_dispatch:
+
+jobs:
+  stringReplace:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          submodules: true
+          ref: gh-pages
+
+      - name: Find and Replace Actor
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "{{github.user}}"
+          replace: "${{ github.actor }}"
+          regex: false
+
+      - name: Find and replace Windows Path in HTML to GitHub RAW Links
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "E:/Sultan/Git/The Newbie Club/cardArchive/"
+          replace: "https://raw.githubusercontent.com/{{ github.repository_owner }}/{{ github.repository }}/main/"
+          regex: false
+
+      - name: Find and replace Parent Windows Path in HTML to GitHub RAW Links
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "E:/Sultan/Git/The Newbie Club/cardArchive"
+          replace: "."
+          regex: false
+
+      - name: Commit sources
+        uses: stefanzweifel/git-auto-commit-action@v4.12.0
+        with:
+          commit_message: "String replace: Windows absolute path to GitHub RAW Links"
+          commit_options: --allow-empty
+          file_pattern: .
+          branch: gh-pages
