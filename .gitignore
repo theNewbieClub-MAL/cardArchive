@@ -1,0 +1,5 @@
+# Ignore highly confidental data from Snap2HTML data
+Snap2HTML.settings
+
+# Ignore executables
+*.exe
