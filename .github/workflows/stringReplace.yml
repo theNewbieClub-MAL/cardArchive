@@ -28,7 +28,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@v2
         with:
           find: "E:/Sultan/Git/The Newbie Club/cardArchive/"
-          replace: "https://raw.githubusercontent.com/{{ github.repository_owner }}/{{ github.repository }}/main/"
+          replace: "https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository }}/main/"
           regex: false
 
       - name: Find and replace Parent Windows Path in HTML to GitHub RAW Links
