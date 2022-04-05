@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - gh-pages
-    paths:
-      - index.html
   workflow_dispatch:
 
 jobs:
@@ -23,20 +21,7 @@ jobs:
           find: "{{github.user}}"
           replace: "${{ github.actor }}"
           regex: false
-
-      - name: Find and replace Windows Path in HTML to GitHub RAW Links
-        uses: jacobtomlinson/gha-find-replace@v2
-        with:
-          find: "E:/Sultan/Git/The Newbie Club/cardArchive/"
-          replace: "https://raw.githubusercontent.com/${{ github.repository_owner }}/${{ github.repository }}/main/"
-          regex: false
-
-      - name: Find and replace Parent Windows Path in HTML to GitHub RAW Links
-        uses: jacobtomlinson/gha-find-replace@v2
-        with:
-          find: "E:/Sultan/Git/The Newbie Club/cardArchive"
-          replace: "."
-          regex: false
+          exclude: "template.html"
 
       - name: Commit sources
         uses: stefanzweifel/git-auto-commit-action@v4.12.0
