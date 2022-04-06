@@ -3,8 +3,6 @@ on:
   push:
     branches:
       - gh-pages
-    paths:
-      - "index.html"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +21,6 @@ jobs:
           find: "{{committer}}"
           replace: "${{ github.actor }}"
           regex: false
-          exclude: "**"
           include: "index.html"
 
       - name: Find and Replace Repository
@@ -32,7 +29,6 @@ jobs:
           find: "{{author}}"
           replace: "${{ github.repository_owner }}"
           regex: false
-          exclude: "**"
           include: "index.html"
 
       - name: Find and Replace Repository
@@ -41,7 +37,6 @@ jobs:
           find: "{{repo}}"
           replace: "${{ github.repository }}"
           regex: false
-          exclude: "**"
           include: "index.html"
 
       - name: Commit sources
