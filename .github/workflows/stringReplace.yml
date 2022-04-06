@@ -1,8 +1,10 @@
-name: Replace Windows Absolute Path to GitHub RAW Links
+name: Replace variables to string
 on:
   push:
     branches:
       - gh-pages
+    paths:
+      - "index.html"
   workflow_dispatch:
 
 jobs:
@@ -15,13 +17,32 @@ jobs:
           submodules: true
           ref: gh-pages
 
-      - name: Find and Replace Actor
+      - name: Find and Replace Committer
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "{{github.user}}"
+          find: "{{committer}}"
           replace: "${{ github.actor }}"
           regex: false
-          exclude: "template.html"
+          exclude: "**"
+          include: "index.html"
+
+      - name: Find and Replace Repository
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "{{author}}"
+          replace: "${{ github.repository_owner }}"
+          regex: false
+          exclude: "**"
+          include: "index.html"
+
+      - name: Find and Replace Repository
+        uses: jacobtomlinson/gha-find-replace@v2
+        with:
+          find: "{{repo}}"
+          replace: "${{ github.repository }}"
+          regex: false
+          exclude: "**"
+          include: "index.html"
 
       - name: Commit sources
         uses: stefanzweifel/git-auto-commit-action@v4.12.0
