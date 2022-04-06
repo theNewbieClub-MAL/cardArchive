@@ -1,0 +1,17 @@
+{
+    "name": "TNC Cards Archival Project",
+    "short_name": "Card Archive",
+    "start_url": "/",
+    "scope": "/",
+    "display": "browser",
+    "description": "",
+    "background_color": "#398235",
+    "lang": "en-US",
+    "icons": [{
+        "src": "assets/icon.png",
+        "type": "image/png",
+        "sizes": "any",
+        "purpose": "maskable any"
+    }],
+    "theme_color": "#398235"
+}
