@@ -64,9 +64,9 @@ body:
   - type: input
     id: expiryDate
     attributes:
-      label: Expiry Date
-      description: When does the link expire? (Insert in format of YYYY-MM-DD, if none, insert "0000-00-00")
-      placeholder: 2020-01-21
+      label: "Expiry Date"
+      description: "When does the link expire? (Insert in format of YYYY-MM-DD, if none, insert 0000-00-00)"
+      placeholder: "2020-01-21"
     validations:
       required: true
   - type: textarea
