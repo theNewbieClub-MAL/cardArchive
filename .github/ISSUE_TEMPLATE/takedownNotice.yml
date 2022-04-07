@@ -1,0 +1,91 @@
+name: Issue Takedown Notice to Maintainer
+description: Choose this if you are a copyright holder, and want to take down your work used in this repo.
+title: "[Takedown Notice] XYZ Edition by ABC staff"
+labels:
+  - takedown
+assignees:
+  - nattadasu
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please use this method as fallback option if you are unable to send a takedown notice to [dmca@nattadasu.my.id](mailto:dmca@nattadasu.my.id).
+
+        If you have any questions, contact one of the following on MyAnimeList:
+        * [nattadasu](https://myanimelist.net/mymessages.php?go=send&toname=nattadasu) as GFX Admin,
+        * [Annie_Law](https://myanimelist.net/mymessages.php?go=send&toname=Annie_Law) as GFX Deputy, or
+        * [Karasian](https://myanimelist.net/mymessages.php?go=send&toname=Karasian) as club owner.
+  - type: input
+    id: issuer
+    attributes:
+      label: Your Name
+      description: Your legal name that holds copyright of the work.
+      placeholder: Robo Hirokawa
+    validations:
+      required: true
+  - type: dropdown
+    id: isOrganization
+    attributes:
+      label: Issuer Background
+      description: Which of the following statements is true about you, the issuer?
+      options:
+        - I am on behalf of an organization
+        - I am the sole owner of the work
+  - type: input
+    id: orgName
+    attributes:
+      label: Organization Name
+      description: Please insert the name of organization/company that holds copyright of the work if you chose "I am on behalf of an organization" option above.
+      placeholder: RingoArt Inc.
+  - type: input
+    id: editionTopic
+    attributes:
+      label: Edition of the Work
+      description: Which edition of the work you are taking down?
+      placeholder: 7K Members
+    validations:
+      required: true
+  - type: input
+    id: staff
+    attributes:
+      label: Staff in Charge
+      description: Who owns the card designs?
+      placeholder: nattadasu
+    validations:
+      required: true
+  - type: input
+    id: urlSource
+    attributes:
+      label: URL of the Original/Source Work
+      description: The URL of the original work.
+      placeholder: https://deviantart.com/example/art/example-art
+    validations:
+      required: false
+  - type: input
+    id: urlTakedown
+    attributes:
+      label: URL of the Work to be Taken Down
+      description: The URL of the work to be taken down. You can provide to ease the process of finding the files.
+      placeholder: https://github.com/theNewbieClub-MAL/cardArchive/tree/main/example/example.png
+    validations:
+      required: false
+  - type: textarea
+    id: message
+    attributes:
+      label: Message of Takedown Notice
+      description: Insert your takedown notice here.
+      placeholder: "[...]"
+    validations:
+      required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement
+      description: Please check all that apply.
+      options:
+        - label: I am submitting this takedown notice on behalf of sole owner/my organization.
+          required: true
+        - label: I am aware that the work is copyrighted and I have the right to take down the work.
+          required: true
+        - label: I agree that by submitting this issue, I am granting the takedown notice submission to be available and auditable to the public.
+          required: true
