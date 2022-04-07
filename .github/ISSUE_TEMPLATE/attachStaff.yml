@@ -1,0 +1,92 @@
+name: Request a pull of card dump.
+description: Choose this if you are The Newbie Club GFX staff and want to dump your cards to this repo as archival.
+title: "[Dump]: XYZ Edition by ABC staff"
+labels:
+  - carddump
+assignees:
+  - nattadasu
+body: 
+  - type: markdown
+    attributes:
+      value: |
+        If you have any questions about this issue template, contact:
+        * [nattadasu](https://myanimelist.net/mymessages.php?go=send&toname=nattadasu) as GFX Admin,
+        * [Annie_Law](https://myanimelist.net/mymessages.php?go=send&toname=Annie_Law) as GFX Deputy, or
+        * [Karasian](https://myanimelist.net/mymessages.php?go=send&toname=Karasian) as club owner.
+  - type: input
+    id: staff
+    attributes:
+      label: Your MAL Username
+      placeholder: un1corn_tnc
+    validations:
+      required: true
+  - type: input
+    id: editionTopic
+    attributes:
+      label: Edition Topic
+      placeholder: 6th Anniversary
+    validations:
+      required: true
+  - type: dropdown
+    id: cloudProvider
+    attributes:
+      label: Cloud Provider
+      description: What cloud provider you use to host ZIP file?
+      multiple: false
+      options:
+        - Box
+        - Dropbox
+        - GitHub Repository
+        - Google Drive
+        - Jumpshare (not recommended)
+        - Microsoft OneDrive
+        - Yandex.Disk (Яндекс.Диск)
+        - Other
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Unfortunately due to Term of Use change of [Jumpshare](https://jumpshare.com/) on how uploading and downloading data, we do not recommend you to host your cards on Jumpshare for the sake of convenience.
+
+        What we noticed about the changes are listed below:
+        > **For designer:** They limited amount of how much files can be uploaded at the same time, thus uploading requested cards at there is not doable in short amount of time. However, if you created cards batch-by-batch, it is still possible to utilize the service.
+        >
+        > **For repo maintainer:** As the maintainer of this repo based on Southeast Asia, Jumpshare limited download speed rate, thus downloading a big folder may take for a long time or even fail. 
+  - type: input
+    id: cloudLink
+    attributes:
+      label: Cloud Link
+      description: What is the link to your ZIP file?
+      placeholder: https://drive.google.com/file/d/1-2-3-4-5-6-7-8-9-0/view?usp=sharing
+    validations:
+      required: true
+  - type: input
+    id: expiryDate
+    attributes:
+      label: Expiry Date
+      description: When does the link expire? (Insert in format of YYYY-MM-DD, if none, insert "0000-00-00")
+      placeholder: 2020-01-21
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: Comment
+      placeholder: Please provide any additional information here, regarding of your link or naming scheme.
+    validations:
+      required: false
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement
+      description: Please check all that apply.
+      options:
+        - label: I am the current GFX staff member.
+          required: true
+        - label: I agree that the cards I made for requesters will be archived and will be available for download publicly.
+          required: true
+        - label: I agree that by submitting this issue, I am granting for repo maintainer list my GitHub username as co-author on commit of my cards.
+          required: true
+        - label: I agree that copyright holder of original work I used on my card(s) may be contacted me for takedown notice.
+          required: true
