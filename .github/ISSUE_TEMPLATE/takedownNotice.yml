@@ -31,6 +31,8 @@ body:
       options:
         - I am on behalf of an organization
         - I am the sole owner of the work
+    validations:
+      required: true
   - type: input
     id: orgName
     attributes:
