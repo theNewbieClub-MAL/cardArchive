@@ -67,27 +67,54 @@
 
 ### January 2019
 
+*No release*
+
 ### February 2019
+
+* [6K Members Milestone (`1902A`)](2019/1902A-6KMembers)
 
 ### March 2019
 
+* [3rd Anniversary (`1903A`)](2019/1903A-3rdAnniversary)
+
 ### April 2019
+
+* [Easter (`1904A`)](2019/1904A-easter)
 
 ### May 2019
 
+* [Mother's Day (`1905A`)](2019/1905A-mothersDay)
+* [Black Clover (`1905B`)](2019/1905B-blackClover)
+
 ### June 2019
+
+* [Summer Time Swimsuit (`1906A`)](2019/1906A-summerTimeSwimsuit)
+* [7K Members Milestone (`1906B`)](2019/1906B-7KMembers)
 
 ### July 2019
 
+* [Violet Evergarden (`1907A`)](2019/1907A-violetEvergarden)
+
 ### August 2019
+
+* [Kyoto Animation (`1908A`)](2019/1908A-kyotoAnimation)
 
 ### September 2019
 
+* [Fate Series (`1909A`)](2019/1909A-fateSeries)
+* [School (`1909B`)](2019/1909B-school)
+
 ### October 2019
+
+* [Halloween (`1910A`)](2019/1910A-halloween)
 
 ### November 2019
 
+* [8K Members Milestone (`1911A`)](2019/1911A-8KMembers)
+
 ### December 2019
+
+* [Christmas (`1912A`)](2019/1912A-christmas)
 
 ## 2020
 
@@ -263,4 +290,6 @@
 
 ## Special
 
-* [13K Members Milestone (2102B)](2021/2102B-13KMembersMilestone)
+* [13K Members Milestone (2102B), custom cards](special/2102B-13KMembersMilestone)
+* [Survey](special/survey)
+* [Staff Honor Card](special/staffHonorCard)
