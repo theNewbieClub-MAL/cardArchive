@@ -3,6 +3,7 @@
 *This repo is powered by [GitHub Copilot](https://copilot.github.com) AI for phrase generator. ~~No time wasted because the suggested phrases are almost good to go~~*
 
 > Also, rule of thumb: this is not official repo of MAL.
+>
 > If you are looking for MAL repo, well sorry to break your hopes, but it is proprietary.
 
 ## Introduction
@@ -17,6 +18,8 @@ This repo only includes any cards that have been delivered by designer themselve
 * [Table of Contents](#table-of-contents)
 * [Content Index](#content-index)
 * [Folder Structure](#folder-structure)
+  * [Scheduled releases](#scheduled-releases)
+  * [Special releases](#special-releases)
 * [Contributing](#contributing)
   * [For Staff](#for-staff)
     * [By GitHub push (for staff)](#by-github-push-for-staff)
@@ -30,9 +33,10 @@ This repo only includes any cards that have been delivered by designer themselve
 * [FAQ](#faq)
   * [What is this repo?](#what-is-this-repo)
   * [Well, I know exactly the purpose of this repo by looking the name, but what is cards exactly?/?](#well-i-know-exactly-the-purpose-of-this-repo-by-looking-the-name-but-what-is-cards-exactly)
+  * [When this repo is created? Why there's just a few cards archived?](#when-this-repo-is-created-why-theres-just-a-few-cards-archived)
   * [Uh, I couldn't understand how to navigate on this site. Need halp](#uh-i-couldnt-understand-how-to-navigate-on-this-site-need-halp)
-  * [Directly using GitHub](#directly-using-github)
-  * [Using mirror site](#using-mirror-site)
+    * [Directly using GitHub](#directly-using-github)
+    * [Using mirror site](#using-mirror-site)
   * [Wait, when I visited certain designer's folder, why I saw either .gitkeep or README.md with Attention as title?](#wait-when-i-visited-certain-designers-folder-why-i-saw-either-gitkeep-or-readmemd-with-attention-as-title)
 * [Contacts](#contacts)
   * [Repo Maintainer](#repo-maintainer)
@@ -213,7 +217,8 @@ Or, if you are not able to send a takedown request via email, you can submit a G
 ### Well, I know exactly the purpose of this repo by looking the name, but what is cards exactly?/?
 
 > Cards or card editions are a club thing that don’t serve a real purpose, but are rather collectibles that you can for example just save, show off in a blog post on MAL such as in this example here, or display them in your MAL profile, your forum signature, etc.
-> [*The Newbie Club's Official GFX Encyclopedia*](https://thenewbieclub-mal.github.io/gfxEncyclopedia/#/gfx/cards)
+>
+> — [*The Newbie Club's Official GFX Encyclopedia*](https://thenewbieclub-mal.github.io/gfxEncyclopedia/#/gfx/cards)
 
 ### When this repo is created? Why there's just a few cards archived?
 
