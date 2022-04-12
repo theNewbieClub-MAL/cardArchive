@@ -1,0 +1,61 @@
+name: Report a Problem/Ask a Question
+description: "Choose this if you encounter any problem with the card dump. Including, but not limited to: missing cards, corrupted files, etc."
+assignees:
+  - nattadasu
+labels:
+  - question
+title: "[Question-Report]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If you have any questions about this issue template, contact:
+        * [nattadasu](https://myanimelist.net/mymessages.php?go=send&toname=nattadasu) as GFX Admin,
+        * [Annie_Law](https://myanimelist.net/mymessages.php?go=send&toname=Annie_Law) as GFX Deputy, or
+        * [Karasian](https://myanimelist.net/mymessages.php?go=send&toname=Karasian) as club owner.
+  - type: input
+    id: username
+    attributes:
+      label: Your MAL Username
+      placeholder: un1corn_tnc
+    validations:
+      required: true
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      description: Which year the edition released? Leave if you want to ask general question.
+      placeholder: "2022"
+    validations:
+      required: false
+  - type: input
+    id: entryId
+    attributes:
+      label: Entry/Complaint ID
+      description: Entry ID on card delivery tracking forum thread or Complaint ID attached on card deliverer's message. Leave if you want to ask general question.
+      placeholder: 22MARA6THUN1059
+    validations:
+      required: false
+  - type: input
+    id: editionTopic
+    attributes:
+      label: Edition Topic
+      description: What edition you provided for missing files? Leave if you want to ask general question.
+      placeholder: 6th Anniversary
+    validations:
+      required: false
+  - type: input
+    id: staff
+    attributes:
+      label: Staff in Charge
+      description: Who owns the card designs? Leave if you want to ask general question.
+      placeholder: nattadasu
+    validations:
+      required: false
+  - type: textarea
+    id: description
+    attributes:
+      label: description
+      placeholder: "Please describe the problem you encountered."
+    validations:
+      required: true
