@@ -4,6 +4,16 @@ on:
   workflow_dispatch:
 
 jobs:
+  cancel:
+    name: 'Cancel GitHub Pages build'
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: styfle/cancel-workflow-action@0.9.1
+        with:
+          workflow_id: 23230381
+          access_token: ${{ github.token }}
+
   stringReplace:
     runs-on: ubuntu-20.04
     steps:
@@ -40,7 +50,7 @@ jobs:
       - name: Commit sources
         uses: stefanzweifel/git-auto-commit-action@v4.12.0
         with:
-          commit_message: "String replace: Windows absolute path to GitHub RAW Links"
+          commit_message: "Variable replace"
           commit_options: --allow-empty
           file_pattern: .
           branch: gh-pages
