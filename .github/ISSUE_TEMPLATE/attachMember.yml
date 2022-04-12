@@ -33,7 +33,7 @@ body:
     id: entryId
     attributes:
       label: Entry/Complaint ID
-      description: Entry ID on delivery logging spreadsheet database.
+      description: Entry ID on card delivery tracking forum thread or Complaint ID attached on card deliverer's message.
       placeholder: 22MARA6THUN1059
     validations:
       required: false
