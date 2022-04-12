@@ -5,6 +5,11 @@
 > This tutorial assumes you're using Windows.
 
 1. Clone `main` branch of repository.
+   * After clone the repo, open directory, hide all of folders and files on root except:
+     * `.\20*`
+       * Sample: `.\2019`, `.\2020`, `.\2021`, `.\2022`
+     * `.\special`
+   * Search `.gitkeep` on Explorer, and hide those files.
 2. Clone `gh-pages` branch of repository.
 3. Download [Snap2HTML](https://rlvision.com/snap2html/about.php) ZIP and unzip to `gh-pages` branch directory you cloned.
 4. Open Snap2HTML executable to initialize `settings` file.
