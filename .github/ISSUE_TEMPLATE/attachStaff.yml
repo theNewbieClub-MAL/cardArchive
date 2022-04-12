@@ -21,6 +21,22 @@ body:
     validations:
       required: true
   - type: input
+    id: year
+    attributes:
+      label: Year
+      description: Which year the edition released?
+      placeholder: "2022"
+    validations:
+      required: true
+  - type: input
+    id: entryId
+    attributes:
+      label: Entry ID
+      description: Your entry ID on delivery logging spreadsheet database.
+      placeholder: 22MARA6THUN1059
+    validations:
+      required: false
+  - type: input
     id: editionTopic
     attributes:
       label: Edition Topic

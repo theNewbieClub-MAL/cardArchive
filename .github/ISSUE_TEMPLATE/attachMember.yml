@@ -22,6 +22,22 @@ body:
     validations:
       required: true
   - type: input
+    id: year
+    attributes:
+      label: Year
+      description: Which year the edition released?
+      placeholder: "2022"
+    validations:
+      required: true
+  - type: input
+    id: entryId
+    attributes:
+      label: Entry/Complaint ID
+      description: Entry ID on delivery logging spreadsheet database.
+      placeholder: 22MARA6THUN1059
+    validations:
+      required: false
+  - type: input
     id: editionTopic
     attributes:
       label: Edition Topic
@@ -85,3 +101,13 @@ body:
         - Someone else
     validations:
       required: true
+  - type: checkboxes
+    id: agreement
+    attributes:
+      label: Agreement
+      description: Please check all that apply.
+      options:
+        - label: I agree that the cards will be archived and available for download publicly.
+          required: true
+        - label: I agree that by submitting this issue, I am granting for repo maintainer list my GitHub username as co-author on commit.
+          required: true
