@@ -38,13 +38,18 @@ This repo only includes any cards that have been delivered by designer themselve
     * [Directly using GitHub](#directly-using-github)
     * [Using mirror site](#using-mirror-site)
   * [Wait, when I visited certain designer's folder, why I saw either .gitkeep or README.md with Attention as title?](#wait-when-i-visited-certain-designers-folder-why-i-saw-either-gitkeep-or-readmemd-with-attention-as-title)
+  * [How I can download my cards?](#how-i-can-download-my-cards)
+  * [Is there simpler way to check if designer delivered/made my card?](#is-there-simpler-way-to-check-if-designer-deliveredmade-my-card)
+  * [I am copyright holder, and I want to remove card/s from X staff in Y edition that using my work without prior notice. Where I can submit the takedown notice?](#i-am-copyright-holder-and-i-want-to-remove-cards-from-x-staff-in-y-edition-that-using-my-work-without-prior-notice-where-i-can-submit-the-takedown-notice)
 * [Contacts](#contacts)
   * [Repo Maintainer](#repo-maintainer)
   * [Club Administrators](#club-administrators)
 
 ## Content Index
 
-Please refer to [index.md](index.md)
+Please refer to [index.md](index.md).
+
+If you want to lookup progress, visit [🚚 Card Delivery Tracking](https://myanimelist.net/forum/?topicid=1981019) thread on MyAnimeList.
 
 ## Folder Structure
 
@@ -70,137 +75,7 @@ For any releases that is not routinely scheduled, such Honor cards, achievements
 
 ## Contributing
 
-### For Staff
-
-#### By GitHub push (for staff)
-
-1. Fork this repository.
-2. Clone forked repository to your machine.
-   * **For Windows/macOS/Linux/BSD**:
-     * Download [GitKraken](https://www.gitkraken.com/download)
-     * Install the programs using recommended steps.
-     * Open GitKraken, Login, and click on `New Repository`
-     * Click on `Clone with URL`, and paste the link to the forked repo.
-     * Open the forked repo in file explorer.
-3. Put your card by following [folder structure](#folder-structure), where `<content>` is your true card content.
-4. Rename edition title by using this format:
-
-   ```html
-   <edition>-<Edition title lowercase>
-   ```
-
-   Sample:
-
-   ```html
-   2112B-utaite
-   ```
-
-   * Format edition title using camelCase model, and exclude any symbols.
-
-     Sample:
-     * kimetsuNoYaiba
-     * valentines
-     * 10kMembersMilestone
-     * haikyuu
-
-5. Add files to staging, note that this might take a time to load.
-   * On GitKraken, click on `Stage all changes`.
-6. Commit your artworks with this name format:
-
-   ```html
-   Cards archival of MAL@<your mal username>
-   ```
-
-   * On GitKraken's right sidebar, insert the name format to `Summary`.
-   * Click on `Stage files/changes to commit`.
-7. Click `Push` button on top toolbar.
-8. Make a PR.
-   * From GitKraken left toolbar, click `+` on `Pull request`.
-   * Select your forked repo on "From Repo" drop box, and select theNewbieClub/cardArchive on "To Repo" drop box, with `main` as branch.
-   * Write your PR title, and click `Create Pull Request`.
-9. ???
-10. Profit.
-
-#### By issuing a GitHub issue (for staff)
-
-1. Visit [this issue template](https://github.com/theNewbieClub-MAL/cardArchive/issues/new?assignees=nattadasu&labels=carddump&template=attachStaff.yml&title=%5BDump%5D%3A+XYZ+Edition+by+ABC+staff).
-2. Fill data that required on the template.
-3. Submit.
-4. Wait for staff to review, triage, and approve.
-5. Safe.
-
-#### By inserting data to Google Spreadsheet
-
-1. Open The Newbie Club Delivery Log spreadsheet. Link is available on `#activities-log`'s channel description.
-2. Go to `Data` sheet and search your name on current release
-3. Insert your link on **`Delivery Link`** column.
-   * If your link has expiration date, insert the estimated date to **`Link Expired on`** column by using `YYYY-MM-DD` format.
-4. Wait until "Your Personal Neko Len" bot on `#activities-log` channel send you a message.
-5. Profit.
-
-#### By old-school way
-
-1. DM/ping the repo maintainer, GFX admin, deputy, or club owner on Discord or MyAnimeList. See contact details on [this section](#contacts).
-2. *ggwp*.
-
-### For Members
-
-#### By GitHub push (for members)
-
-1. Fork this repository.
-2. Clone forked repository to your machine.
-   * **For Windows/macOS/Linux/BSD**:
-     * Download [GitKraken](https://www.gitkraken.com/download)
-     * Install the programs using recommended steps.
-     * Open GitKraken, Login, and click on `New Repository`
-     * Click on `Clone with URL`, and paste the link to the forked repo.
-     * Open the forked repo in file explorer.
-3. Put your card by following [folder structure](#folder-structure), where `<content>` is your true card content.
-4. Rename edition title by using this format:
-
-   ```html
-   <edition>-<Edition title lowercase>
-   ```
-
-   Sample:
-
-   ```html
-   2112B-utaite
-   ```
-
-   * Format edition title using camelCase model, and exclude any symbols.
-
-     Sample:
-     * kimetsuNoYaiba
-     * valentines
-     * 10kMembersMilestone
-     * haikyuu
-
-5. Add files to staging, note that this might take a time to load.
-   * On GitKraken, click on `Stage all changes`.
-6. Commit your artworks with this name format:
-
-   ```html
-   Cards archival of MAL@<designer mal username>
-   ```
-
-   * On GitKraken's right sidebar, insert the name format to `Summary`.
-   * Click on `Stage files/changes to commit`.
-7. Click `Push` button on top toolbar.
-8. Make a PR.
-   * From GitKraken left toolbar, click `+` on `Pull request`.
-   * Select your forked repo on "From Repo" drop box, and select theNewbieClub/cardArchive on "To Repo" drop box, with `main` as branch.
-   * Write your PR title, and click `Create Pull Request`.
-9. ???
-10. Profit.
-
-#### By issuing a GitHub Issue (for members)
-
-1. Open this [link](https://github.com/theNewbieClub-MAL/cardArchive/issues/new?assignees=nattadasu&labels=attachment&template=attachMember.yml&title=%5BAttach%5D%3A+ZIP+of+XYZ+Edition+by+ABC+staff).
-2. Fill data that required on the template.
-3. Submit.
-4. Wait for staff to review, triage, and approve.
-5. Safe.
+Please check [CONTRIBUTING.md](CONTRIBUTING.md) for more details. If we leave the steps in this file, *y'all* be confused.
 
 ## Takedown Notice
 
@@ -244,6 +119,22 @@ To navigate/explore, you can choose any method below:
 Those files are placeholder for Git read "empty" directory. By default, empty directory is not shown on Git, so you need to add `.gitkeep` file on that folder.
 
 However, for `README.md` file, there is an additional note why the folder is empty. Mostly it is due to the link designer/deliverer has given is expired, but it also can be due to the designer resigned from the club.
+
+### How I can download my cards?
+
+By simply right-clicking on your card image, then click `Save image as...`.
+
+~~and do this multiple times if you requested much cards.~~
+
+### Is there simpler way to check if designer delivered/made my card?
+
+Yes! Please visit [🚚 Card Delivery Tracking](https://myanimelist.net/forum/?topicid=1981019) thread on MyAnimeList.
+
+You can jump directly to the edition you want to save, submit a report of problem, or even submitting missing cards to archive.
+
+### I am copyright holder, and I want to remove card/s from X staff in Y edition that using my work without prior notice. Where I can submit the takedown notice?
+
+Please check [#Takedown Notice](#takedown-notice) section.
 
 ## Contacts
 
