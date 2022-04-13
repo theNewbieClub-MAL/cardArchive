@@ -55,7 +55,11 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: description
-      placeholder: "Please describe the problem you encountered."
+      label: Description
+      description: "Please describe the problem you encountered."
+      placeholder: |
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Gravida neque convallis a cras semper. Ultrices vitae auctor eu augue ut lectus. Congue nisi vitae suscipit tellus mauris a. Et leo duis ut diam quam nulla porttitor. Malesuada pellentesque elit eget gravida cum sociis natoque. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Facilisis gravida neque convallis a. Vitae suscipit tellus mauris a diam maecenas sed enim ut. Dignissim diam quis enim lobortis. Congue eu consequat ac felis donec et odio.
+
+        Sagittis eu volutpat odio facilisis mauris sit amet massa. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Pellentesque habitant morbi tristique senectus. Elementum curabitur vitae nunc sed velit dignissim sodales. Hendrerit dolor magna eget est lorem ipsum dolor sit. Maecenas sed enim ut sem viverra aliquet eget sit. Dui accumsan sit amet nulla facilisi. Venenatis cras sed felis eget. Et egestas quis ipsum suspendisse ultrices gravida dictum fusce ut. At ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget. Donec ultrices tincidunt arcu non sodales neque sodales. Cras tincidunt lobortis feugiat vivamus. Faucibus turpis in eu mi bibendum neque. Volutpat ac tincidunt vitae semper quis. Egestas purus viverra accumsan in nisl nisi scelerisque.
     validations:
       required: true
