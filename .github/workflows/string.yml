@@ -48,7 +48,7 @@ jobs:
           include: "index.html"
 
       - name: Commit sources
-        uses: stefanzweifel/git-auto-commit-action@v4.14.0
+        uses: stefanzweifel/git-auto-commit-action@v4.14.1
         with:
           commit_message: "Variable replace"
           commit_options: --allow-empty
