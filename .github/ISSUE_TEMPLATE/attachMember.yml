@@ -111,3 +111,5 @@ body:
           required: true
         - label: I agree that by submitting this issue, I am granting for repo maintainer list my GitHub username as co-author on commit.
           required: true
+        - label: I have checked on [issue list](https://github.com/theNewbieClub-MAL/cardArchive/issues) that the cards of the edition has not been requested to be archived yet.
+          required: true
