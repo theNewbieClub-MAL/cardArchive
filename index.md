@@ -258,11 +258,12 @@
 
 ### May 2022
 
-*No release*
+* [Pink (`2205A`)](2022/2205A-pink)
 
 ### June 2022
 
-*No release*
+* [Shounen-Ai (`2206A`)](2022/2206A-shounenAi)
+* [Beach (`2206B`)](2022/2206B-beach)
 
 ### July 2022
 
