@@ -2,7 +2,8 @@
     "cSpell.words": [
         "kimetsu",
         "Yaiba",
-        "haikyuu"
+        "haikyuu",
+        "Shounen"
     ],
     "yaml.schemas": {
         "https://json.schemastore.org/github-issue-config.json": ".github/ISSUE_TEMPLATE/config.yml"
