@@ -26,13 +26,15 @@
    * Link files
      * Check: true
      * Path to link files: `https://raw.githubusercontent.com/{{author}}/{{repo}}/main`
-       * Do not replace the placeholders to avoid conflict
+       > **Warning** |
+       > Do not replace the placeholders to avoid conflict
 6. Generate HTML file as `index.html` in this branch.
 7. Open code editor to edit `index.html`.
 8. <kbd>Ctrl</kbd> + <kbd>H</kbd> (or <kbd>Cmd</kbd> + <kbd>H</kbd> for macOS) on code editor to find and replace string.
 9. Take the last string of the full directory path to replace query.
    * For Windows, replace backslash (`\`) to slash (`/`) to get matching result.
      * Example: `C:/Users/user/Documents/GitHub/repo/`, to: `repo/`.
-   * This step is required if you want to maintain privacy.
+   > **Note** |
+   > This step is required if you want to maintain privacy.
 10. Save and commit the change to GitHub.
 11. GitHub Action Bot will automatically replace rest of the strings (`{{author}}`, `{{repo}}`, and `{{committer}}`).
