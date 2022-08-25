@@ -2,9 +2,9 @@
 
 *This repo is powered by [GitHub Copilot](https://copilot.github.com) AI for phrase generator. ~~No time wasted because the suggested phrases are almost good to go~~*
 
-> Also, rule of thumb: this is not official repo of MAL.
->
-> If you are looking for MAL repo, well sorry to break your hopes, but it is proprietary.
+> **Note**
+> 
+> This is not official repo of MAL. If you are looking for MAL repo, well sorry to break your hopes, but it is proprietary.
 
 ## Introduction
 
@@ -74,6 +74,10 @@ Please check [CONTRIBUTING.md](CONTRIBUTING.md) for more details. If we leave th
 Please send a takedown request to dmca@nattadasu.my.id. We will try our best to take it down within a day or earlier.
 
 Or, if you are not able to send a takedown request via email, you can submit a GitHub issue with [this link](https://github.com/theNewbieClub-MAL/cardArchive/issues/new?assignees=nattadasu&labels=takedown&template=takedownNotice.yml&title=%5BTakedown+Notice%5D+XYZ+Edition+by+ABC+staff).
+
+> **Warning**
+> 
+> Use GitHub Issue if the takedown notice is can not be send on email.
 
 ## FAQ
 
