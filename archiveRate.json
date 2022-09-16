@@ -1,0 +1,1843 @@
+{
+    "metadata": {
+        "version": 1,
+        "repository": {
+            "name": "cardArchive",
+            "author": "theNewbieClub-MAL",
+            "homepage": [
+                "https://archive.thenewbieclub.my.id",
+                "https://myanimelist.com/club.php?cid=70668"
+            ],
+            "maintainers": [
+                "github:nattadasu"
+            ]
+        },
+        "license": null,
+        "codeOfConduct": [
+            "./CODE_OF_CONDUCT.md"
+        ],
+        "folderStructure": {
+            "variables": {
+                "edition": "$($TNCPAS:0002)-$(($themeTitle).format('camelCase'))",
+                "contributor": "$($username)",
+                "year": "$(text('yyyy'))",
+                "uncategorized": "special",
+                "categories": [
+                    "$year",
+                    "$uncategorized"
+                ]
+            },
+            "path": "/$categories/$edition/$contributor/**",
+            "exceptions": [
+                "/2021/2110C-TNCxHNEHalloweenCollab/**",
+                "/special/contributionHonorGift/**"
+            ]
+        },
+        "contributors": [
+            {
+                "id": "nattadasu",
+                "malUsername": "$id",
+                "github": "$id",
+                "complaintAddress": "",
+                "formerUsernames": null
+            },
+            {
+                "id": "Sp3ctr",
+                "malUsername": "$id",
+                "github": "$id",
+                "complaintAddress": "",
+                "formerUsernames": null
+            }
+        ],
+        "updatedOn": 1663281623
+    },
+    "data": [
+        {
+            "category": "2019",
+            "editions": [
+                {
+                    "id": "1902A",
+                    "path": "1902A-6KMembers",
+                    "title": "6K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "h3oCharles",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "TheLukrie",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1903A",
+                    "path": "1903A-3rdAnniversary",
+                    "title": "3rd Anniversary",
+                    "emojiVisualIdentifier": "🎂",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "h3oCharles",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Melodylockstar",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1904A",
+                    "path": "1904A-easter",
+                    "title": "Easter",
+                    "emojiVisualIdentifier": "🐇",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Festivity",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Melodylockstar",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1905A",
+                    "path": "1905A-mothersDay",
+                    "title": "Mother's Day",
+                    "emojiVisualIdentifier": "👩",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Melodylockstar",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Omee",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1905B",
+                    "path": "1905B-blackClover",
+                    "title": "Black Clover",
+                    "emojiVisualIdentifier": "🍀",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Omee",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "RuiRui",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1906A",
+                    "path": "1906A-summerTimeSwimsuit",
+                    "title": "Summer Time Swimsuit",
+                    "emojiVisualIdentifier": "👙",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Melodylockstar",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Omee",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1906B",
+                    "path": "1906B-7KMembers",
+                    "title": "7k Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Festivity",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Omee",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "RuiRui",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1907A",
+                    "path": "1907A-violetEvergarden",
+                    "title": "Violet Evergarden",
+                    "emojiVisualIdentifier": "💌",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1908A",
+                    "path": "1908A-kyotoAnimation",
+                    "title": "Kyoto Animation",
+                    "emojiVisualIdentifier": "🍡",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvansLikesJuice",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "1909A",
+                    "path": "1909A-fateSeries",
+                    "title": "Fate Series",
+                    "emojiVisualIdentifier": "🗡️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Akito136",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "EvansLikesJuice",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "1909B",
+                    "path": "1909B-school",
+                    "title": "School",
+                    "emojiVisualIdentifier": "🏫",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Crystaldragon36",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "EvansLikesJuice",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "1910A",
+                    "path": "1910A-halloween",
+                    "title": "Halloween",
+                    "emojiVisualIdentifier": "🎃",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Crystaldragon36",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Redth_SA",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1911A",
+                    "path": "1911A-8KMembers",
+                    "title": "8K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Pacs",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Redth_SA",
+                            "status": "unknown"
+                        }
+                    ]
+                },
+                {
+                    "id": "1912A",
+                    "path": "1912A-christmas",
+                    "title": "Christmas",
+                    "emojiVisualIdentifier": "🎄",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Crystaldragon36",
+                            "status": "unknown"
+                        },
+                        {
+                            "id": "Redth_SA",
+                            "status": "unknown"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "2020",
+            "editions": [
+                {
+                    "id": "2001A",
+                    "path": "2001A-kimetsuNoYaiba",
+                    "title": "Kimetsu no Yaiba",
+                    "emojiVisualIdentifier": "👺",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Akito136",
+                            "status": "halted"
+                        },
+                        {
+                            "id": "chibister",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2002A",
+                    "path": "2002A-valentines",
+                    "title": "Valentine's",
+                    "emojiVisualIdentifier": "💗",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Booksy",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvanLikesJuice",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2003A",
+                    "path": "2003A-4thAnniversary",
+                    "title": "4th Anniversary",
+                    "emojiVisualIdentifier": "🎂",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Alledine",
+                            "status": "halted"
+                        },
+                        {
+                            "id": "chibister",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvanLikesJuice",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2003B",
+                    "path": "2003B-spring",
+                    "title": "Spring",
+                    "emojiVisualIdentifier": "🌳",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "ForbiddenBG",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2004A",
+                    "path": "2004A-mystery",
+                    "title": "Mystery",
+                    "emojiVisualIdentifier": "🔮",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "chibister",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2005A",
+                    "path": "2005A-10KMembersMilestone",
+                    "title": "10K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "chibister",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2006A",
+                    "path": "2006A-red",
+                    "title": "Red",
+                    "emojiVisualIdentifier": "🟥",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "chibister",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "lEpikSl",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2006B",
+                    "path": "2006B-pride",
+                    "title": "Pride!",
+                    "emojiVisualIdentifier": "🏳️‍🌈",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Booksy",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvanLikesJuice",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2007A",
+                    "path": "2007A-quarantine",
+                    "title": "Quarantine",
+                    "emojiVisualIdentifier": "😷",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "lEpikSl",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2007B",
+                    "path": "2007B-haikyuu",
+                    "title": "Haikyuu!",
+                    "emojiVisualIdentifier": "🏐",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvanLikesJuice",
+                            "status": "halted"
+                        },
+                        {
+                            "id": "Kymikx",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "lEpikSl",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2007C",
+                    "path": "2007C-favorites",
+                    "title": "Favorites",
+                    "emojiVisualIdentifier": "🌟",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2008A",
+                    "path": "2008A-music",
+                    "title": "Music",
+                    "emojiVisualIdentifier": "🎵",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "TheMilkBoi",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2008B",
+                    "path": "2008B-festival",
+                    "title": "Festival",
+                    "emojiVisualIdentifier": "🥳",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "TheMilkBoi",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2008C",
+                    "path": "2008C-12KMembersMilestone",
+                    "title": "12K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Booksy",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2009A",
+                    "path": "2009A-school",
+                    "title": "School",
+                    "emojiVisualIdentifier": "🏫",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "TheMilkBoi",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2009B",
+                    "path": "2009B-sliceofLife",
+                    "title": "Slice of Life",
+                    "emojiVisualIdentifier": "🍰",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2010A",
+                    "path": "2010A-studioGhibli",
+                    "title": "Studio Ghibli",
+                    "emojiVisualIdentifier": "👻",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kairito_",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2010B",
+                    "path": "2010B-halloween",
+                    "title": "Halloween",
+                    "emojiVisualIdentifier": "🎃",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Araberu",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "kunminer123",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "TheMilkBoi",
+                            "status": "halted"
+                        }
+                    ]
+                },
+                {
+                    "id": "2011A",
+                    "path": "2011A-shounen",
+                    "title": "Shounen",
+                    "emojiVisualIdentifier": "👦",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "iva-",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "j3llo",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2011B",
+                    "path": "2011B-kyotoAnimation",
+                    "title": "Kyoto Animation",
+                    "emojiVisualIdentifier": "🍡",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Araberu",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kairito_",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2012A",
+                    "path": "2012A-comedy",
+                    "title": "Comedy",
+                    "emojiVisualIdentifier": "😂",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "j3llo",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2012B",
+                    "path": "2012B-christmas",
+                    "title": "Christmas",
+                    "emojiVisualIdentifier": "🎄",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "iva-",
+                            "status": "archived"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "2021",
+            "editions": [
+                {
+                    "id": "2101A",
+                    "path": "2101A-newYear",
+                    "title": "New Year",
+                    "emojiVisualIdentifier": "🎆",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2102A",
+                    "path": "2102A-valentine",
+                    "title": "Valentine",
+                    "emojiVisualIdentifier": "💗",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Araberu",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "iva-",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Kairito_",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2102B",
+                    "path": "2102B-13KMembersMilestone",
+                    "title": "13K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Komatarusa",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2103A",
+                    "path": "2103A-whiteDay",
+                    "title": "White Day",
+                    "emojiVisualIdentifier": "🤍",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "j3llo",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Komatarusa",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2103B",
+                    "path": "2103B-yuruCamp",
+                    "title": "Yuru Camp",
+                    "emojiVisualIdentifier": "🏕️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2104A",
+                    "path": "2104A-5thAnniversary",
+                    "title": "5th Anniversary",
+                    "emojiVisualIdentifier": "🎂",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "j3llo",
+                            "status": "halted"
+                        }
+                    ]
+                },
+                {
+                    "id": "2104B",
+                    "path": "2104B-yourLieInApril",
+                    "title": "Your Lie in April",
+                    "emojiVisualIdentifier": "🎻",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "hanakoxbby",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Komatarusa",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2105A",
+                    "path": "2105A-mothersDay",
+                    "title": "Mother's Day",
+                    "emojiVisualIdentifier": "👵",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Kairito_",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2105B",
+                    "path": "2105B-gaming",
+                    "title": "Gaming",
+                    "emojiVisualIdentifier": "🎮",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2106A",
+                    "path": "2106A-purple",
+                    "title": "Purple",
+                    "emojiVisualIdentifier": "💜",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "julesliana",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Komatarusa",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2106B",
+                    "path": "2106B-attackOnTitan",
+                    "title": "Attack on Titan",
+                    "emojiVisualIdentifier": "⚔️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "EvaNetor-Chan",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2107A",
+                    "path": "2107A-summer",
+                    "title": "Summer",
+                    "emojiVisualIdentifier": "🌞",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "harukaisthebae",
+                            "status": "progress"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2107B",
+                    "path": "2107B-naruto",
+                    "title": "Naruto",
+                    "emojiVisualIdentifier": "🍜",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "iva-",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "julesliana",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2108A",
+                    "path": "2108A-sports",
+                    "title": "Sports",
+                    "emojiVisualIdentifier": "⚽",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Komatarusa",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2108B",
+                    "path": "2108B-fateSeries",
+                    "title": "Fate Series",
+                    "emojiVisualIdentifier": "🗡️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "julesliana",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Sp3ctr",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2109A",
+                    "path": "2109A-jujutsuKaisen",
+                    "title": "Jujutsu Kaisen",
+                    "emojiVisualIdentifier": "👄",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2109B",
+                    "path": "2109B-gintama",
+                    "title": "Gintama",
+                    "emojiVisualIdentifier": "💰",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Sp3ctr",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2110A",
+                    "path": "2110A-fall",
+                    "title": "Fall",
+                    "emojiVisualIdentifier": "🍂",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        }
+                    ]
+                },
+                {
+                    "id": "2110B",
+                    "path": "2110B-genshinImpact",
+                    "title": "Genshin Impact",
+                    "emojiVisualIdentifier": "⚡",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2110C",
+                    "path": "2110C-TNCxHNEHalloweenCollab",
+                    "title": "TNC x HNE Halloween Collab",
+                    "emojiVisualIdentifier": "🎃",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "isNotSplit": true,
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Celeste21",
+                            "status": "archived",
+                            "ignore": true
+                        },
+                        {
+                            "id": "jeck_",
+                            "status": "archived",
+                            "ignore": true
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "oden98",
+                            "status": "archived",
+                            "ignore": true
+                        },
+                        {
+                            "id": "z0nex",
+                            "status": "archived",
+                            "ignore": true
+                        }
+                    ]
+                },
+                {
+                    "id": "2112A",
+                    "path": "2112A-utaite",
+                    "title": "Utaite",
+                    "emojiVisualIdentifier": "🎙️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Karasian",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2112B",
+                    "path": "2112B-winter",
+                    "title": "Winter",
+                    "emojiVisualIdentifier": "❄️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Annie_Law",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "category": "2022",
+            "editions": [
+                {
+                    "id": "2201A",
+                    "path": "2201A-kimono",
+                    "title": "Kimono",
+                    "emojiVisualIdentifier": "👘",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Sp3ctr",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2202A",
+                    "path": "2202A-mahouShoujo",
+                    "title": "Mahou Shoujo",
+                    "emojiVisualIdentifier": "🪄",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2203A",
+                    "path": "2203A-6thAnniversary",
+                    "title": "6th Anniversary",
+                    "emojiVisualIdentifier": "🎂",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2203B",
+                    "path": "2203B-konosuba",
+                    "title": "KONOSUBA!",
+                    "emojiVisualIdentifier": "💣",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2204A",
+                    "path": "2204A-aprilFoolsDay",
+                    "title": "April Fools Day",
+                    "emojiVisualIdentifier": "🤡",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2204B",
+                    "path": "2204B-15KMembersMilestone",
+                    "title": "15K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2205A",
+                    "path": "2205A-pink",
+                    "title": "Pink",
+                    "emojiVisualIdentifier": "🌸",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Komatarusa",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2206A",
+                    "path": "2206A-shounenAi",
+                    "title": "Shounen Ai",
+                    "emojiVisualIdentifier": "👬",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "2206B",
+                    "path": "2206B-beach",
+                    "title": "Beach",
+                    "emojiVisualIdentifier": "🏖️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "aichaun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Annie_Law",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "2207A",
+                    "path": "2207A-18kMembersMilestone",
+                    "title": "18K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2208A",
+                    "path": "2208A-elemental",
+                    "title": "Elemental",
+                    "emojiVisualIdentifier": "🏞️",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Komatarusa",
+                            "status": "progress"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2208B",
+                    "path": "2208B-genderbend",
+                    "title": "Genderbend",
+                    "emojiVisualIdentifier": "🧬",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "2209A",
+                    "path": "2209A-maid",
+                    "title": "Maid",
+                    "emojiVisualIdentifier": "🧹",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Komatarusa",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "2209B",
+                    "path": "2209B-spyXFamily",
+                    "title": "SPY X FAMILY",
+                    "emojiVisualIdentifier": "🔎",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": []
+                }
+            ]
+        },
+        {
+            "category": "special",
+            "editions": [
+                {
+                    "id": "2102B",
+                    "path": "2102B-13KMembersMilestone",
+                    "title": "13K Members Milestone Custom Cards Event",
+                    "emojiVisualIdentifier": "💳",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "MelissaWolf",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "progress"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "contributionHonorGift",
+                    "title": "Contribution Honor Card",
+                    "path": "contributionHonorGift",
+                    "emojiVisualIdentifier": "🎖️",
+                    "forumId": 0,
+                    "startDate": "1970-01-01",
+                    "endDate": "2099-12-31",
+                    "isNotSplit": true,
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "Naegi-Kun",
+                            "status": "archived"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "archived"
+                        }
+                    ]
+                },
+                {
+                    "id": "survey",
+                    "title": "Survey Participation Reward",
+                    "path": "survey",
+                    "emojiVisualIdentifier": "📋",
+                    "forumId": 0,
+                    "startDate": "",
+                    "endDate": "",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "invalid"
+                        },
+                        {
+                            "id": "nattadasu",
+                            "status": "progress"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
