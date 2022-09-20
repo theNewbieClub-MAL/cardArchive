@@ -1752,11 +1752,24 @@
                     "id": "2209B",
                     "path": "2209B-spyXFamily",
                     "title": "SPY X FAMILY",
-                    "emojiVisualIdentifier": "🔎",
-                    "forumId": 0,
-                    "startDate": "",
-                    "endDate": "",
-                    "contributors": []
+                    "emojiVisualIdentifier": "🔍",
+                    "forumId": 2045651,
+                    "startDate": "2022-09-18",
+                    "endDate": "2022-09-22",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
+                            "status": "progress"
+                        },
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "progress"
+                        },
+                        {
+                            "id": "Yes_Im_Lumzing",
+                            "status": "progress"
+                        }
+                    ]
                 }
             ]
         },
