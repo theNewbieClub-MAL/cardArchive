@@ -51,7 +51,7 @@ ForEach ($index in $jsonIndex) {
         "* [$($itemEmoji) $($item.title) ``$($item.id)``]($($itemPath))" | Out-File -FilePath ./index.md -Encoding utf8 -Append
 
         If ($itemSingular) {
-            "  Cards located on Edition folder, not on each staff. Below is the list of contributed staff:" | Out-File -FilePath ./index.md -Encoding utf8 -Append
+            "`n  Cards located on Edition folder, not on each staff. Below is the list of contributed staff:" | Out-File -FilePath ./index.md -Encoding utf8 -Append
         }
 
         ForEach ($staff in $item.contributors) {
