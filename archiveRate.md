@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 1:24:03 AM UTC+00:00, September 20, 2022
+**Last Updated:** 4:25:11 PM UTC+00:00, September 20, 2022
 
 ## Global Statistics
 
@@ -14,13 +14,13 @@
 | :-------------------------- | :----: |
 | Edition released            | 75 |
 | Total club staff            | 42 |
-| Total of participations     | 233 |
+| Total of participations     | 236 |
 | Archived                    | 113 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 8 |
+| Currently designing         | 11 |
 | Halted                      | 5 |
 | Unknown                     | 30 |
-| **Archival rate, globally** | 48.498% |
+| **Archival rate, globally** | 47.881% |
 
 ## By Categories/Year of Releases
 
@@ -116,7 +116,7 @@
 | [`2208A`](./2022/2208A-elemental) | 🏞️ Elemental | 2 | 1 | 0 | 1 | 0 | 0 | **50**% |
 | [`2208B`](./2022/2208B-genderbend) | 🧬 Genderbend | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
 | [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
-| [`2209B`](./2022/2209B-spyXFamily) | 🔎 SPY X FAMILY | 0 | 0 | 0 | 0 | 0 | 0 | **0**% |
+| [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 0 | 0 | 3 | 0 | 0 | **0**% |
 
 ### special
 

@@ -6,6 +6,8 @@
 
 ***__Do not modify the file__***
 
+**Last Updated:** 4:25:10 PM UTC+00:00, September 20, 2022
+
 ## Table of Contents
 
 <details>
@@ -326,7 +328,10 @@
   * [Mifuyu-Iris](./2022/2208B-genderbend/Mifuyu-Iris)
 * [🧹 Maid `2209A`](./2022/2209A-maid)
   * Komatarusa &mdash; 💳 Cards are being created by staff
-* [🔎 SPY X FAMILY `2209B`](./2022/2209B-spyXFamily)
+* [🔍 SPY X FAMILY `2209B`](./2022/2209B-spyXFamily)
+  * MelissaWolf &mdash; 💳 Cards are being created by staff
+  * Mifuyu-Iris &mdash; 💳 Cards are being created by staff
+  * Yes_Im_Lumzing &mdash; 💳 Cards are being created by staff
 
 ## special
 
