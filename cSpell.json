@@ -1,0 +1,57 @@
+{
+    // Any word that is defined on any dictionary, incl. Urban
+    "words": [
+        "Collab",
+        "Evergarden",
+        "genderbend",
+        "genderbent",
+        "genshin",
+        "Ghibli",
+        "gintama",
+        "haikyuu",
+        "jujutsu",
+        "Kaisen",
+        "kimetsu",
+        "konosuba",
+        "mahou",
+        "naruto",
+        "shoujo",
+        "shounen",
+        "sliceof",
+        "TNCPAS", // The Newbie Club's Proposals and Standardizations
+        "uncategorized",
+        "utaite",
+        "yaiba",
+        "yuru"
+    ],
+    // Staff name
+    "ignoreWords": [
+        "aichaun",
+        "Akito",
+        "Alledine",
+        "Araberu",
+        "Booksy",
+        "chibister",
+        "Crystaldragon",
+        "Epik",
+        "hanakoxbby",
+        "harukaisthebae",
+        "julesliana",
+        "Kairito",
+        "Karasian",
+        "Komatarusa",
+        "kunminer",
+        "Kymikx",
+        "Lukrie",
+        "Lumzing",
+        "Melodylockstar",
+        "Mifuyu",
+        "Naegi",
+        "nattadasu",
+        "Netor",
+        "Omee",
+        "Redth",
+        "oden",
+        "jeck"
+    ]
+}
