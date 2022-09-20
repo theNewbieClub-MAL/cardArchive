@@ -1,12 +1,13 @@
 # cSpell:words pwsh
 
-name: Auto Update index.md
+name: Auto Update index and statistic
 
 on:
   push:
     paths:
       - "./generateIndex.ps1"
       - "archiveRate.json"
+      - "./generateStatistic.ps1"
 
   workflow_dispatch:
 
@@ -16,9 +17,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Generate changes
+      - name: Generate files
         shell: pwsh
-        run: ./generateIndex.ps1
+        run: |
+          ./generateIndex.ps1
+          ./generateStatistic.ps1
       - name: Commit changes
         shell: pwsh
         run: |
@@ -26,6 +29,6 @@ jobs:
           git config --local user.name "GitHub Action"
 
           git add index.md
-          git commit -m "Update index.md"
+          git commit -m "Update generated document"
 
           git push
