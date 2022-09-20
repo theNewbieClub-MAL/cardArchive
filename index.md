@@ -273,6 +273,7 @@
   * [nattadasu](./2021/2110B-genshinImpact/nattadasu)
   * [Yes_Im_Lumzing](./2021/2110B-genshinImpact/Yes_Im_Lumzing)
 * [🎃 TNC x HNE Halloween Collab `2110C`](./2021/2110C-TNCxHNEHalloweenCollab)
+
   Cards located on Edition folder, not on each staff. Below is the list of contributed staff:
   * Annie_Law
   * Celeste21
@@ -335,6 +336,7 @@
   * Naegi-Kun &mdash; 💳 Cards are being created by staff
   * nattadasu &mdash; 💳 Cards are being created by staff
 * [🎖️ Contribution Honor Card `contributionHonorGift`](./special/contributionHonorGift)
+
   Cards located on Edition folder, not on each staff. Below is the list of contributed staff:
   * Annie_Law
   * Mifuyu-Iris
