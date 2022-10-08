@@ -1777,8 +1777,8 @@
                     "title": "Villain",
                     "emojiVisualIdentifier": "👻",
                     "forumId": null,
-                    "startDate": 2022-10-09,
-                    "endDate": 2022-10-13,
+                    "startDate": "2022-10-09",
+                    "endDate": "2022-10-13",
                     "contributors": [
                         {
                             "id": "aichaun",
