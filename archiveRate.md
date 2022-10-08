@@ -6,21 +6,21 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 4:25:11 PM UTC+00:00, September 20, 2022
+**Last Updated:** 4:11:35 PM UTC+00:00, October 8, 2022
 
 ## Global Statistics
 
 | Data                        | Values |
 | :-------------------------- | :----: |
-| Edition released            | 75 |
+| Edition released            | 76 |
 | Total club staff            | 42 |
-| Total of participations     | 236 |
-| Archived                    | 113 |
+| Total of participations     | 237 |
+| Archived                    | 115 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 11 |
+| Currently designing         | 10 |
 | Halted                      | 5 |
 | Unknown                     | 30 |
-| **Archival rate, globally** | 47.881% |
+| **Archival rate, globally** | 48.523% |
 
 ## By Categories/Year of Releases
 
@@ -113,10 +113,11 @@
 | [`2206A`](./2022/2206A-shounenAi) | 👬 Shounen Ai | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
 | [`2206B`](./2022/2206B-beach) | 🏖️ Beach | 2 | 1 | 0 | 1 | 0 | 0 | **50**% |
 | [`2207A`](./2022/2207A-18kMembersMilestone) | 🎉 18K Members Milestone | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2208A`](./2022/2208A-elemental) | 🏞️ Elemental | 2 | 1 | 0 | 1 | 0 | 0 | **50**% |
+| [`2208A`](./2022/2208A-elemental) | 🏞️ Elemental | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
 | [`2208B`](./2022/2208B-genderbend) | 🧬 Genderbend | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
+| [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
 | [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 0 | 0 | 3 | 0 | 0 | **0**% |
+| [`2210A`](./2022/2210A-villain) | 👻 Villain | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
 
 ### special
 

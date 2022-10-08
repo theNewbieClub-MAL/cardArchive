@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 4:25:10 PM UTC+00:00, September 20, 2022
+**Last Updated:** 4:11:35 PM UTC+00:00, October 8, 2022
 
 ## Table of Contents
 
@@ -322,16 +322,18 @@
 * [🎉 18K Members Milestone `2207A`](./2022/2207A-18kMembersMilestone)
   * [Mifuyu-Iris](./2022/2207A-18kMembersMilestone/Mifuyu-Iris)
 * [🏞️ Elemental `2208A`](./2022/2208A-elemental)
-  * Komatarusa &mdash; 💳 Cards are being created by staff
+  * [Komatarusa](./2022/2208A-elemental/Komatarusa)
   * [Mifuyu-Iris](./2022/2208A-elemental/Mifuyu-Iris)
 * [🧬 Genderbend `2208B`](./2022/2208B-genderbend)
   * [Mifuyu-Iris](./2022/2208B-genderbend/Mifuyu-Iris)
 * [🧹 Maid `2209A`](./2022/2209A-maid)
-  * Komatarusa &mdash; 💳 Cards are being created by staff
+  * [Komatarusa](./2022/2209A-maid/Komatarusa)
 * [🔍 SPY X FAMILY `2209B`](./2022/2209B-spyXFamily)
   * MelissaWolf &mdash; 💳 Cards are being created by staff
   * Mifuyu-Iris &mdash; 💳 Cards are being created by staff
   * Yes_Im_Lumzing &mdash; 💳 Cards are being created by staff
+* [👻 Villain `2210A`](./2022/2210A-villain)
+  * aichaun &mdash; 💳 Cards are being created by staff
 
 ## special
 
