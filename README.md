@@ -18,7 +18,7 @@
      * Path: *your working git directory of `main` branch*
      * Include hidden items: false
      * Include system items: false
-   * Page title: `Snapshot of {{author}}/{{repo}}`
+   * Page title: `Snapshot of {{repo}}`
      * Available placeholder:
        * `{{author}}`: author of repository
        * `{{repo}}`: name of repository
