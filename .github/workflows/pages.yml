@@ -44,14 +44,6 @@ jobs:
       - name: Find and Replace Repository
         uses: jacobtomlinson/gha-find-replace@v2
         with:
-          find: "{{author}}"
-          replace: "${{ github.repository_owner }}"
-          regex: false
-          include: "index.html"
-
-      - name: Find and Replace Repository
-        uses: jacobtomlinson/gha-find-replace@v2
-        with:
           find: "{{repo}}"
           replace: "${{ github.repository }}"
           regex: false
