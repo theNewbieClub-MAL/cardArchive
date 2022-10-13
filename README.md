@@ -25,7 +25,7 @@
        * `{{committer}}`: username of committer
    * Link files
      * Check: true
-     * Path to link files: `https://raw.githubusercontent.com/{{author}}/{{repo}}/main`
+     * Path to link files: `https://raw.githubusercontent.com/{{repo}}/main`
        > **Warning** |
        > Do not replace the placeholders to avoid conflict
 6. Generate HTML file as `index.html` in this branch.
@@ -37,4 +37,4 @@
    > **Note** |
    > This step is required if you want to maintain privacy.
 10. Save and commit the change to GitHub.
-11. GitHub Action Bot will automatically replace rest of the strings (`{{author}}`, `{{repo}}`, and `{{committer}}`).
+11. GitHub Action Bot will automatically replace rest of the strings (`{{repo}}`, and `{{committer}}`).
