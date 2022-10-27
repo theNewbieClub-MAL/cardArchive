@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 4:11:35 PM UTC+00:00, October 8, 2022
+**Last Updated:** 8:26:04 PM UTC+00:00, October 27, 2022
 
 ## Table of Contents
 
@@ -331,9 +331,11 @@
 * [🔍 SPY X FAMILY `2209B`](./2022/2209B-spyXFamily)
   * MelissaWolf &mdash; 💳 Cards are being created by staff
   * Mifuyu-Iris &mdash; 💳 Cards are being created by staff
-  * Yes_Im_Lumzing &mdash; 💳 Cards are being created by staff
+  * [Yes_Im_Lumzing](./2022/2209B-spyXFamily/Yes_Im_Lumzing)
 * [👻 Villain `2210A`](./2022/2210A-villain)
   * aichaun &mdash; 💳 Cards are being created by staff
+* [🎃 Halloween `2210B`](./2022/2210B-halloween)
+  * MelissaWolf &mdash; 💳 Cards are being created by staff
 
 ## special
 
