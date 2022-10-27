@@ -1767,7 +1767,7 @@
                         },
                         {
                             "id": "Yes_Im_Lumzing",
-                            "status": "progress"
+                            "status": "archived"
                         }
                     ]
                 },
@@ -1782,6 +1782,21 @@
                     "contributors": [
                         {
                             "id": "aichaun",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "2210B",
+                    "path": "2210B-halloween",
+                    "title": "Halloween",
+                    "emojiVisualIdentifier": "🎃",
+                    "forumId": null,
+                    "startDate": "2022-10-23",
+                    "endDate": "2022-10-27",
+                    "contributors": [
+                        {
+                            "id": "MelissaWolf",
                             "status": "progress"
                         }
                     ]
