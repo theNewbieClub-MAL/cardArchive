@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 8:26:05 PM UTC+00:00, October 27, 2022
+**Last Updated:** 9:33:39 AM UTC+00:00, January 6, 2023
 
 ## Global Statistics
 
@@ -15,12 +15,12 @@
 | Edition released            | 77 |
 | Total club staff            | 42 |
 | Total of participations     | 238 |
-| Archived                    | 116 |
+| Archived                    | 117 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 10 |
+| Currently designing         | 9 |
 | Halted                      | 5 |
 | Unknown                     | 30 |
-| **Archival rate, globally** | 48.739% |
+| **Archival rate, globally** | 49.16% |
 
 ## By Categories/Year of Releases
 
@@ -116,7 +116,7 @@
 | [`2208A`](./2022/2208A-elemental) | 🏞️ Elemental | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
 | [`2208B`](./2022/2208B-genderbend) | 🧬 Genderbend | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
 | [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 1 | 0 | 2 | 0 | 0 | **33**.33% |
+| [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 2 | 0 | 1 | 0 | 0 | **66**.67% |
 | [`2210A`](./2022/2210A-villain) | 👻 Villain | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
 | [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
 

@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 8:26:04 PM UTC+00:00, October 27, 2022
+**Last Updated:** 9:33:38 AM UTC+00:00, January 6, 2023
 
 ## Table of Contents
 
@@ -329,7 +329,7 @@
 * [🧹 Maid `2209A`](./2022/2209A-maid)
   * [Komatarusa](./2022/2209A-maid/Komatarusa)
 * [🔍 SPY X FAMILY `2209B`](./2022/2209B-spyXFamily)
-  * MelissaWolf &mdash; 💳 Cards are being created by staff
+  * [MelissaWolf](./2022/2209B-spyXFamily/MelissaWolf)
   * Mifuyu-Iris &mdash; 💳 Cards are being created by staff
   * [Yes_Im_Lumzing](./2022/2209B-spyXFamily/Yes_Im_Lumzing)
 * [👻 Villain `2210A`](./2022/2210A-villain)
