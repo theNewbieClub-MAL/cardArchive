@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 9:33:38 AM UTC+00:00, January 6, 2023
+**Last Updated:** 11:23:26 AM UTC+00:00, January 17, 2023
 
 ## Table of Contents
 
@@ -315,7 +315,7 @@
   * [Komatarusa](./2022/2205A-pink/Komatarusa)
   * [Mifuyu-Iris](./2022/2205A-pink/Mifuyu-Iris)
 * [👬 Shounen Ai `2206A`](./2022/2206A-shounenAi)
-  * MelissaWolf &mdash; 💳 Cards are being created by staff
+  * [MelissaWolf](./2022/2206A-shounenAi/MelissaWolf)
 * [🏖️ Beach `2206B`](./2022/2206B-beach)
   * [aichaun](./2022/2206B-beach/aichaun)
   * Annie_Law &mdash; 💳 Cards are being created by staff
@@ -330,7 +330,7 @@
   * [Komatarusa](./2022/2209A-maid/Komatarusa)
 * [🔍 SPY X FAMILY `2209B`](./2022/2209B-spyXFamily)
   * [MelissaWolf](./2022/2209B-spyXFamily/MelissaWolf)
-  * Mifuyu-Iris &mdash; 💳 Cards are being created by staff
+  * [Mifuyu-Iris](./2022/2209B-spyXFamily/Mifuyu-Iris)
   * [Yes_Im_Lumzing](./2022/2209B-spyXFamily/Yes_Im_Lumzing)
 * [👻 Villain `2210A`](./2022/2210A-villain)
   * aichaun &mdash; 💳 Cards are being created by staff
