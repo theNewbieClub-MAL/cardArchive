@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 11:23:26 AM UTC+00:00, January 17, 2023
+**Last Updated:** 8:38:52 AM UTC+00:00, January 23, 2023
 
 ## Table of Contents
 
@@ -335,7 +335,7 @@
 * [👻 Villain `2210A`](./2022/2210A-villain)
   * aichaun &mdash; 💳 Cards are being created by staff
 * [🎃 Halloween `2210B`](./2022/2210B-halloween)
-  * MelissaWolf &mdash; 💳 Cards are being created by staff
+  * MelissaWolf
 
 ## special
 

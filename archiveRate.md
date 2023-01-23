@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 11:23:27 AM UTC+00:00, January 17, 2023
+**Last Updated:** 8:38:52 AM UTC+00:00, January 23, 2023
 
 ## Global Statistics
 
@@ -17,7 +17,7 @@
 | Total of participations     | 238 |
 | Archived                    | 119 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 7 |
+| Currently designing         | 6 |
 | Halted                      | 5 |
 | Unknown                     | 30 |
 | **Archival rate, globally** | 50% |
@@ -118,7 +118,7 @@
 | [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
 | [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 3 | 0 | 0 | 0 | 0 | **100**% |
 | [`2210A`](./2022/2210A-villain) | 👻 Villain | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
-| [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
+| [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 0 | 0 | 0 | 0 | 0 | **0**% |
 
 ### special
 
