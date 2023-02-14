@@ -92,6 +92,22 @@ ForEach ($cat in $jsonIndex) {
                 $unknown = $unknown + 1
             }
         }
+        
+        If ($archived -eq 0) {
+            $archived = "-"
+        }
+        If ($invalid -eq 0) {
+            $invalid = "-"
+        }
+        If ($progress -eq 0) {
+            $progress = "-"
+        }
+        If ($halted -eq 0) {
+            $halted = "-"
+        }
+        If ($unknown -eq 0) {
+            $unknown = "-"
+        }
 
         $markdown += @"
 `n| [``$($edi.id)``]($($itemPath)) | $($edi.emojiVisualIdentifier) $($edi.title) | $($staff) | $($archived) | $($invalid) | $($progress) | $($halted) | $($unknown) | $(If ($archived -eq 0) {"**0**"} Else {($archived / $staff * 100).ToString('**#**.##')})% |
