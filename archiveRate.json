@@ -1776,7 +1776,7 @@
                     "path": "2210A-villain",
                     "title": "Villain",
                     "emojiVisualIdentifier": "👻",
-                    "forumId": null,
+                    "forumId": 2050322,
                     "startDate": "2022-10-09",
                     "endDate": "2022-10-13",
                     "contributors": [
@@ -1791,13 +1791,62 @@
                     "path": "2210B-halloween",
                     "title": "Halloween",
                     "emojiVisualIdentifier": "🎃",
-                    "forumId": null,
+                    "forumId": 2053386,
                     "startDate": "2022-10-23",
                     "endDate": "2022-10-27",
                     "contributors": [
                         {
                             "id": "MelissaWolf",
                             "status": "archive"
+                        }
+                    ]
+                },
+                {
+                    "id": "2211A",
+                    "path": "2211A-bleach",
+                    "title": "Bleach",
+                    "emojiVisualIdentifier": "🔪",
+                    "forumId": 2056148,
+                    "startDate": "2022-11-06",
+                    "endDate": "2022-11-10",
+                    "contributors": [
+                        {
+                            "id": "Annie_Law",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "2301A",
+                    "path": "2301A-20kMembersMilestone",
+                    "title": "20K Members Milestone",
+                    "emojiVisualIdentifier": "🎉",
+                    "forumId": 2071731,
+                    "startDate": "2023-01-22",
+                    "endDate": "2023-01-26",
+                    "contributors": [
+                        {
+                            "id": "Mifuyu-Iris",
+                            "status": "progress"
+                        }
+                    ]
+                },
+                {
+                    "id": "2302A",
+                    "path": "2302A-editionCompilation",
+                    "title": "Edition Compilation",
+                    "emojiVisualIdentifier": "📦",
+                    "forumId": 2074743,
+                    "startDate": "2023-02-05",
+                    "endDate": "2023-02-09",
+                    "contributors": [
+                        {
+                            "id": "nattadasu",
+                            "status": "progress"
+                        },
+                        {
+                            "id": "MentalIllnessDN",
+                            "status": "progress"
                         }
                     ]
                 }
