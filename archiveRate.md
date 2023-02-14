@@ -6,21 +6,21 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 8:38:52 AM UTC+00:00, January 23, 2023
+**Last Updated:** 5:57:24 PM UTC+00:00, February 14, 2023
 
 ## Global Statistics
 
 | Data                        | Values |
 | :-------------------------- | :----: |
-| Edition released            | 77 |
-| Total club staff            | 42 |
-| Total of participations     | 238 |
-| Archived                    | 119 |
+| Edition released            | 80 |
+| Total club staff            | 43 |
+| Total of participations     | 242 |
+| Archived                    | 120 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 6 |
+| Currently designing         | 10 |
 | Halted                      | 5 |
 | Unknown                     | 30 |
-| **Archival rate, globally** | 50% |
+| **Archival rate, globally** | 49.587% |
 
 ## By Categories/Year of Releases
 
@@ -118,7 +118,10 @@
 | [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
 | [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 3 | 0 | 0 | 0 | 0 | **100**% |
 | [`2210A`](./2022/2210A-villain) | 👻 Villain | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
-| [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 0 | 0 | 0 | 0 | 0 | **0**% |
+| [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
+| [`2211A`](./2022/2211A-bleach) | 🔪 Bleach | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
+| [`2301A`](./2022/2301A-20kMembersMilestone) | 🎉 20K Members Milestone | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
+| [`2302A`](./2022/2302A-editionCompilation) | 📦 Edition Compilation | 2 | 0 | 0 | 2 | 0 | 0 | **0**% |
 
 ### special
 
