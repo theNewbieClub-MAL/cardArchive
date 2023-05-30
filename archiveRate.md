@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 5:57:24 PM UTC+00:00, February 14, 2023
+**Last Updated:** 9:22:43 PM UTC+00:00, May 30, 2023
 
 ## Global Statistics
 
@@ -15,12 +15,12 @@
 | Edition released            | 80 |
 | Total club staff            | 43 |
 | Total of participations     | 242 |
-| Archived                    | 120 |
+| Archived                    | 123 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 10 |
+| Currently designing         | 7 |
 | Halted                      | 5 |
 | Unknown                     | 30 |
-| **Archival rate, globally** | 49.587% |
+| **Archival rate, globally** | 50.826% |
 
 ## By Categories/Year of Releases
 
@@ -30,106 +30,111 @@
 
 | ID  | Edition Title | Staff | Archived | Invalid/Missing | Progress | Halted | Unknown | Rate |
 | :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
-| [`1902A`](./2019/1902A-6KMembers) | 🎉 6K Members Milestone | 3 | 0 | 0 | 0 | 0 | 3 | **0**% |
-| [`1903A`](./2019/1903A-3rdAnniversary) | 🎂 3rd Anniversary | 3 | 0 | 0 | 0 | 0 | 3 | **0**% |
-| [`1904A`](./2019/1904A-easter) | 🐇 Easter | 3 | 0 | 0 | 0 | 0 | 3 | **0**% |
-| [`1905A`](./2019/1905A-mothersDay) | 👩 Mother's Day | 3 | 0 | 0 | 0 | 0 | 3 | **0**% |
-| [`1905B`](./2019/1905B-blackClover) | 🍀 Black Clover | 3 | 0 | 0 | 0 | 0 | 3 | **0**% |
-| [`1906A`](./2019/1906A-summerTimeSwimsuit) | 👙 Summer Time Swimsuit | 2 | 0 | 0 | 0 | 0 | 2 | **0**% |
-| [`1906B`](./2019/1906B-7KMembers) | 🎉 7k Members Milestone | 4 | 0 | 0 | 0 | 0 | 4 | **0**% |
-| [`1907A`](./2019/1907A-violetEvergarden) | 💌 Violet Evergarden | 2 | 1 | 0 | 0 | 0 | 1 | **50**% |
-| [`1908A`](./2019/1908A-kyotoAnimation) | 🍡 Kyoto Animation | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`1909A`](./2019/1909A-fateSeries) | 🗡️ Fate Series | 2 | 1 | 0 | 0 | 0 | 1 | **50**% |
-| [`1909B`](./2019/1909B-school) | 🏫 School | 3 | 1 | 1 | 0 | 0 | 1 | **33**.33% |
-| [`1910A`](./2019/1910A-halloween) | 🎃 Halloween | 3 | 1 | 0 | 0 | 0 | 2 | **33**.33% |
-| [`1911A`](./2019/1911A-8KMembers) | 🎉 8K Members Milestone | 2 | 0 | 0 | 0 | 0 | 2 | **0**% |
-| [`1912A`](./2019/1912A-christmas) | 🎄 Christmas | 2 | 0 | 0 | 0 | 0 | 2 | **0**% |
+| [`1902A`](./2019/1902A-6KMembers) | 🎉 6K Members Milestone | 3 | - | - | - | - | 3 | **0**% |
+| [`1903A`](./2019/1903A-3rdAnniversary) | 🎂 3rd Anniversary | 3 | - | - | - | - | 3 | **0**% |
+| [`1904A`](./2019/1904A-easter) | 🐇 Easter | 3 | - | - | - | - | 3 | **0**% |
+| [`1905A`](./2019/1905A-mothersDay) | 👩 Mother's Day | 3 | - | - | - | - | 3 | **0**% |
+| [`1905B`](./2019/1905B-blackClover) | 🍀 Black Clover | 3 | - | - | - | - | 3 | **0**% |
+| [`1906A`](./2019/1906A-summerTimeSwimsuit) | 👙 Summer Time Swimsuit | 2 | - | - | - | - | 2 | **0**% |
+| [`1906B`](./2019/1906B-7KMembers) | 🎉 7k Members Milestone | 4 | - | - | - | - | 4 | **0**% |
+| [`1907A`](./2019/1907A-violetEvergarden) | 💌 Violet Evergarden | 2 | 1 | - | - | - | 1 | **50**% |
+| [`1908A`](./2019/1908A-kyotoAnimation) | 🍡 Kyoto Animation | 2 | 2 | - | - | - | - | **100**% |
+| [`1909A`](./2019/1909A-fateSeries) | 🗡️ Fate Series | 2 | 1 | - | - | - | 1 | **50**% |
+| [`1909B`](./2019/1909B-school) | 🏫 School | 3 | 1 | 1 | - | - | 1 | **33**.33% |
+| [`1910A`](./2019/1910A-halloween) | 🎃 Halloween | 3 | 1 | - | - | - | 2 | **33**.33% |
+| [`1911A`](./2019/1911A-8KMembers) | 🎉 8K Members Milestone | 2 | - | - | - | - | 2 | **0**% |
+| [`1912A`](./2019/1912A-christmas) | 🎄 Christmas | 2 | - | - | - | - | 2 | **0**% |
 
 ### 2020
 
 | ID  | Edition Title | Staff | Archived | Invalid/Missing | Progress | Halted | Unknown | Rate |
 | :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
-| [`2001A`](./2020/2001A-kimetsuNoYaiba) | 👺 Kimetsu no Yaiba | 3 | 1 | 1 | 0 | 1 | 0 | **33**.33% |
-| [`2002A`](./2020/2002A-valentines) | 💗 Valentine's | 3 | 2 | 1 | 0 | 0 | 0 | **66**.67% |
-| [`2003A`](./2020/2003A-4thAnniversary) | 🎂 4th Anniversary | 4 | 2 | 1 | 0 | 1 | 0 | **50**% |
-| [`2003B`](./2020/2003B-spring) | 🌳 Spring | 5 | 3 | 2 | 0 | 0 | 0 | **60**% |
-| [`2004A`](./2020/2004A-mystery) | 🔮 Mystery | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2005A`](./2020/2005A-10KMembersMilestone) | 🎉 10K Members Milestone | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2006A`](./2020/2006A-red) | 🟥 Red | 4 | 1 | 3 | 0 | 0 | 0 | **25**% |
-| [`2006B`](./2020/2006B-pride) | 🏳️‍🌈 Pride! | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2007A`](./2020/2007A-quarantine) | 😷 Quarantine | 4 | 3 | 1 | 0 | 0 | 0 | **75**% |
-| [`2007B`](./2020/2007B-haikyuu) | 🏐 Haikyuu! | 3 | 2 | 0 | 0 | 1 | 0 | **66**.67% |
-| [`2007C`](./2020/2007C-favorites) | 🌟 Favorites | 4 | 1 | 3 | 0 | 0 | 0 | **25**% |
-| [`2008A`](./2020/2008A-music) | 🎵 Music | 5 | 3 | 2 | 0 | 0 | 0 | **60**% |
-| [`2008B`](./2020/2008B-festival) | 🥳 Festival | 2 | 1 | 1 | 0 | 0 | 0 | **50**% |
-| [`2008C`](./2020/2008C-12KMembersMilestone) | 🎉 12K Members Milestone | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2009A`](./2020/2009A-school) | 🏫 School | 4 | 3 | 1 | 0 | 0 | 0 | **75**% |
-| [`2009B`](./2020/2009B-sliceofLife) | 🍰 Slice of Life | 5 | 2 | 3 | 0 | 0 | 0 | **40**% |
-| [`2010A`](./2020/2010A-studioGhibli) | 👻 Studio Ghibli | 3 | 1 | 2 | 0 | 0 | 0 | **33**.33% |
-| [`2010B`](./2020/2010B-halloween) | 🎃 Halloween | 6 | 1 | 4 | 0 | 1 | 0 | **16**.67% |
-| [`2011A`](./2020/2011A-shounen) | 👦 Shounen | 4 | 3 | 1 | 0 | 0 | 0 | **75**% |
-| [`2011B`](./2020/2011B-kyotoAnimation) | 🍡 Kyoto Animation | 5 | 1 | 4 | 0 | 0 | 0 | **20**% |
-| [`2012A`](./2020/2012A-comedy) | 😂 Comedy | 3 | 2 | 1 | 0 | 0 | 0 | **66**.67% |
-| [`2012B`](./2020/2012B-christmas) | 🎄 Christmas | 3 | 1 | 2 | 0 | 0 | 0 | **33**.33% |
+| [`2001A`](./2020/2001A-kimetsuNoYaiba) | 👺 Kimetsu no Yaiba | 3 | 1 | 1 | - | 1 | - | **33**.33% |
+| [`2002A`](./2020/2002A-valentines) | 💗 Valentine's | 3 | 2 | 1 | - | - | - | **66**.67% |
+| [`2003A`](./2020/2003A-4thAnniversary) | 🎂 4th Anniversary | 4 | 2 | 1 | - | 1 | - | **50**% |
+| [`2003B`](./2020/2003B-spring) | 🌳 Spring | 5 | 3 | 2 | - | - | - | **60**% |
+| [`2004A`](./2020/2004A-mystery) | 🔮 Mystery | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2005A`](./2020/2005A-10KMembersMilestone) | 🎉 10K Members Milestone | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2006A`](./2020/2006A-red) | 🟥 Red | 4 | 1 | 3 | - | - | - | **25**% |
+| [`2006B`](./2020/2006B-pride) | 🏳️‍🌈 Pride! | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2007A`](./2020/2007A-quarantine) | 😷 Quarantine | 4 | 3 | 1 | - | - | - | **75**% |
+| [`2007B`](./2020/2007B-haikyuu) | 🏐 Haikyuu! | 3 | 2 | - | - | 1 | - | **66**.67% |
+| [`2007C`](./2020/2007C-favorites) | 🌟 Favorites | 4 | 1 | 3 | - | - | - | **25**% |
+| [`2008A`](./2020/2008A-music) | 🎵 Music | 5 | 3 | 2 | - | - | - | **60**% |
+| [`2008B`](./2020/2008B-festival) | 🥳 Festival | 2 | 1 | 1 | - | - | - | **50**% |
+| [`2008C`](./2020/2008C-12KMembersMilestone) | 🎉 12K Members Milestone | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2009A`](./2020/2009A-school) | 🏫 School | 4 | 3 | 1 | - | - | - | **75**% |
+| [`2009B`](./2020/2009B-sliceofLife) | 🍰 Slice of Life | 5 | 2 | 3 | - | - | - | **40**% |
+| [`2010A`](./2020/2010A-studioGhibli) | 👻 Studio Ghibli | 3 | 1 | 2 | - | - | - | **33**.33% |
+| [`2010B`](./2020/2010B-halloween) | 🎃 Halloween | 6 | 1 | 4 | - | 1 | - | **16**.67% |
+| [`2011A`](./2020/2011A-shounen) | 👦 Shounen | 4 | 3 | 1 | - | - | - | **75**% |
+| [`2011B`](./2020/2011B-kyotoAnimation) | 🍡 Kyoto Animation | 5 | 1 | 4 | - | - | - | **20**% |
+| [`2012A`](./2020/2012A-comedy) | 😂 Comedy | 3 | 2 | 1 | - | - | - | **66**.67% |
+| [`2012B`](./2020/2012B-christmas) | 🎄 Christmas | 3 | 1 | 2 | - | - | - | **33**.33% |
 
 ### 2021
 
 | ID  | Edition Title | Staff | Archived | Invalid/Missing | Progress | Halted | Unknown | Rate |
 | :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
-| [`2101A`](./2021/2101A-newYear) | 🎆 New Year | 4 | 0 | 4 | 0 | 0 | 0 | **0**% |
-| [`2102A`](./2021/2102A-valentine) | 💗 Valentine | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2102B`](./2021/2102B-13KMembersMilestone) | 🎉 13K Members Milestone | 3 | 2 | 1 | 0 | 0 | 0 | **66**.67% |
-| [`2103A`](./2021/2103A-whiteDay) | 🤍 White Day | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2103B`](./2021/2103B-yuruCamp) | 🏕️ Yuru Camp | 2 | 1 | 1 | 0 | 0 | 0 | **50**% |
-| [`2104A`](./2021/2104A-5thAnniversary) | 🎂 5th Anniversary | 3 | 0 | 2 | 0 | 1 | 0 | **0**% |
-| [`2104B`](./2021/2104B-yourLieInApril) | 🎻 Your Lie in April | 5 | 1 | 4 | 0 | 0 | 0 | **20**% |
-| [`2105A`](./2021/2105A-mothersDay) | 👵 Mother's Day | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2105B`](./2021/2105B-gaming) | 🎮 Gaming | 5 | 2 | 3 | 0 | 0 | 0 | **40**% |
-| [`2106A`](./2021/2106A-purple) | 💜 Purple | 5 | 3 | 2 | 0 | 0 | 0 | **60**% |
-| [`2106B`](./2021/2106B-attackOnTitan) | ⚔️ Attack on Titan | 2 | 0 | 2 | 0 | 0 | 0 | **0**% |
-| [`2107A`](./2021/2107A-summer) | 🌞 Summer | 5 | 2 | 2 | 1 | 0 | 0 | **40**% |
-| [`2107B`](./2021/2107B-naruto) | 🍜 Naruto | 4 | 3 | 1 | 0 | 0 | 0 | **75**% |
-| [`2108A`](./2021/2108A-sports) | ⚽ Sports | 3 | 2 | 1 | 0 | 0 | 0 | **66**.67% |
-| [`2108B`](./2021/2108B-fateSeries) | 🗡️ Fate Series | 4 | 2 | 2 | 0 | 0 | 0 | **50**% |
-| [`2109A`](./2021/2109A-jujutsuKaisen) | 👄 Jujutsu Kaisen | 2 | 1 | 1 | 0 | 0 | 0 | **50**% |
-| [`2109B`](./2021/2109B-gintama) | 💰 Gintama | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2110A`](./2021/2110A-fall) | 🍂 Fall | 1 | 0 | 1 | 0 | 0 | 0 | **0**% |
-| [`2110B`](./2021/2110B-genshinImpact) | ⚡ Genshin Impact | 5 | 5 | 0 | 0 | 0 | 0 | **100**% |
-| [`2110C`](./2021/2110C-TNCxHNEHalloweenCollab) | 🎃 TNC x HNE Halloween Collab | 6 | 6 | 0 | 0 | 0 | 0 | **100**% |
-| [`2112A`](./2021/2112A-utaite) | 🎙️ Utaite | 3 | 3 | 0 | 0 | 0 | 0 | **100**% |
-| [`2112B`](./2021/2112B-winter) | ❄️ Winter | 4 | 4 | 0 | 0 | 0 | 0 | **100**% |
+| [`2101A`](./2021/2101A-newYear) | 🎆 New Year | 4 | - | 4 | - | - | - | **0**% |
+| [`2102A`](./2021/2102A-valentine) | 💗 Valentine | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2102B`](./2021/2102B-13KMembersMilestone) | 🎉 13K Members Milestone | 3 | 2 | 1 | - | - | - | **66**.67% |
+| [`2103A`](./2021/2103A-whiteDay) | 🤍 White Day | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2103B`](./2021/2103B-yuruCamp) | 🏕️ Yuru Camp | 2 | 1 | 1 | - | - | - | **50**% |
+| [`2104A`](./2021/2104A-5thAnniversary) | 🎂 5th Anniversary | 3 | - | 2 | - | 1 | - | **0**% |
+| [`2104B`](./2021/2104B-yourLieInApril) | 🎻 Your Lie in April | 5 | 1 | 4 | - | - | - | **20**% |
+| [`2105A`](./2021/2105A-mothersDay) | 👵 Mother's Day | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2105B`](./2021/2105B-gaming) | 🎮 Gaming | 5 | 2 | 3 | - | - | - | **40**% |
+| [`2106A`](./2021/2106A-purple) | 💜 Purple | 5 | 3 | 2 | - | - | - | **60**% |
+| [`2106B`](./2021/2106B-attackOnTitan) | ⚔️ Attack on Titan | 2 | - | 2 | - | - | - | **0**% |
+| [`2107A`](./2021/2107A-summer) | 🌞 Summer | 5 | 2 | 2 | 1 | - | - | **40**% |
+| [`2107B`](./2021/2107B-naruto) | 🍜 Naruto | 4 | 3 | 1 | - | - | - | **75**% |
+| [`2108A`](./2021/2108A-sports) | ⚽ Sports | 3 | 2 | 1 | - | - | - | **66**.67% |
+| [`2108B`](./2021/2108B-fateSeries) | 🗡️ Fate Series | 4 | 2 | 2 | - | - | - | **50**% |
+| [`2109A`](./2021/2109A-jujutsuKaisen) | 👄 Jujutsu Kaisen | 2 | 1 | 1 | - | - | - | **50**% |
+| [`2109B`](./2021/2109B-gintama) | 💰 Gintama | 2 | 2 | - | - | - | - | **100**% |
+| [`2110A`](./2021/2110A-fall) | 🍂 Fall | 1 | - | 1 | - | - | - | **0**% |
+| [`2110B`](./2021/2110B-genshinImpact) | ⚡ Genshin Impact | 5 | 5 | - | - | - | - | **100**% |
+| [`2110C`](./2021/2110C-TNCxHNEHalloweenCollab) | 🎃 TNC x HNE Halloween Collab | 6 | 6 | - | - | - | - | **100**% |
+| [`2112A`](./2021/2112A-utaite) | 🎙️ Utaite | 3 | 3 | - | - | - | - | **100**% |
+| [`2112B`](./2021/2112B-winter) | ❄️ Winter | 4 | 4 | - | - | - | - | **100**% |
 
 ### 2022
 
 | ID  | Edition Title | Staff | Archived | Invalid/Missing | Progress | Halted | Unknown | Rate |
 | :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
-| [`2201A`](./2022/2201A-kimono) | 👘 Kimono | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2202A`](./2022/2202A-mahouShoujo) | 🪄 Mahou Shoujo | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2203A`](./2022/2203A-6thAnniversary) | 🎂 6th Anniversary | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2203B`](./2022/2203B-konosuba) | 💣 KONOSUBA! | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2204A`](./2022/2204A-aprilFoolsDay) | 🤡 April Fools Day | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2204B`](./2022/2204B-15KMembersMilestone) | 🎉 15K Members Milestone | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2205A`](./2022/2205A-pink) | 🌸 Pink | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2206A`](./2022/2206A-shounenAi) | 👬 Shounen Ai | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2206B`](./2022/2206B-beach) | 🏖️ Beach | 2 | 1 | 0 | 1 | 0 | 0 | **50**% |
-| [`2207A`](./2022/2207A-18kMembersMilestone) | 🎉 18K Members Milestone | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2208A`](./2022/2208A-elemental) | 🏞️ Elemental | 2 | 2 | 0 | 0 | 0 | 0 | **100**% |
-| [`2208B`](./2022/2208B-genderbend) | 🧬 Genderbend | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 3 | 0 | 0 | 0 | 0 | **100**% |
-| [`2210A`](./2022/2210A-villain) | 👻 Villain | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
-| [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 1 | 0 | 0 | 0 | 0 | **100**% |
-| [`2211A`](./2022/2211A-bleach) | 🔪 Bleach | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
-| [`2301A`](./2022/2301A-20kMembersMilestone) | 🎉 20K Members Milestone | 1 | 0 | 0 | 1 | 0 | 0 | **0**% |
-| [`2302A`](./2022/2302A-editionCompilation) | 📦 Edition Compilation | 2 | 0 | 0 | 2 | 0 | 0 | **0**% |
+| [`2201A`](./2022/2201A-kimono) | 👘 Kimono | 2 | 2 | - | - | - | - | **100**% |
+| [`2202A`](./2022/2202A-mahouShoujo) | 🪄 Mahou Shoujo | 2 | 2 | - | - | - | - | **100**% |
+| [`2203A`](./2022/2203A-6thAnniversary) | 🎂 6th Anniversary | 1 | 1 | - | - | - | - | **100**% |
+| [`2203B`](./2022/2203B-konosuba) | 💣 KONOSUBA! | 1 | 1 | - | - | - | - | **100**% |
+| [`2204A`](./2022/2204A-aprilFoolsDay) | 🤡 April Fools Day | 2 | 2 | - | - | - | - | **100**% |
+| [`2204B`](./2022/2204B-15KMembersMilestone) | 🎉 15K Members Milestone | 2 | 2 | - | - | - | - | **100**% |
+| [`2205A`](./2022/2205A-pink) | 🌸 Pink | 2 | 2 | - | - | - | - | **100**% |
+| [`2206A`](./2022/2206A-shounenAi) | 👬 Shounen Ai | 1 | 1 | - | - | - | - | **100**% |
+| [`2206B`](./2022/2206B-beach) | 🏖️ Beach | 2 | 2 | - | - | - | - | **100**% |
+| [`2207A`](./2022/2207A-18kMembersMilestone) | 🎉 18K Members Milestone | 1 | 1 | - | - | - | - | **100**% |
+| [`2208A`](./2022/2208A-elemental) | 🏞️ Elemental | 2 | 2 | - | - | - | - | **100**% |
+| [`2208B`](./2022/2208B-genderbend) | 🧬 Genderbend | 1 | 1 | - | - | - | - | **100**% |
+| [`2209A`](./2022/2209A-maid) | 🧹 Maid | 1 | 1 | - | - | - | - | **100**% |
+| [`2209B`](./2022/2209B-spyXFamily) | 🔍 SPY X FAMILY | 3 | 3 | - | - | - | - | **100**% |
+| [`2210A`](./2022/2210A-villain) | 👻 Villain | 1 | 1 | - | - | - | - | **100**% |
+| [`2210B`](./2022/2210B-halloween) | 🎃 Halloween | 1 | 1 | - | - | - | - | **100**% |
+| [`2211A`](./2022/2211A-bleach) | 🔪 Bleach | 1 | - | - | 1 | - | - | **0**% |
+
+### 2023
+
+| ID  | Edition Title | Staff | Archived | Invalid/Missing | Progress | Halted | Unknown | Rate |
+| :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
+| [`2301A`](./2023/2301A-20kMembersMilestone) | 🎉 20K Members Milestone | 1 | - | - | 1 | - | - | **0**% |
+| [`2302A`](./2023/2302A-editionCompilation) | 📦 Edition Compilation | 2 | 1 | - | 1 | - | - | **50**% |
 
 ### special
 
 | ID  | Edition Title | Staff | Archived | Invalid/Missing | Progress | Halted | Unknown | Rate |
 | :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
-| [`2102B`](./special/2102B-13KMembersMilestone) | 💳 13K Members Milestone Custom Cards Event | 4 | 1 | 1 | 2 | 0 | 0 | **25**% |
-| [`contributionHonorGift`](./special/contributionHonorGift) | 🎖️ Contribution Honor Card | 4 | 4 | 0 | 0 | 0 | 0 | **100**% |
-| [`survey`](./special/survey) | 📋 Survey Participation Reward | 2 | 0 | 1 | 1 | 0 | 0 | **0**% |
+| [`2102B`](./special/2102B-13KMembersMilestone) | 💳 13K Members Milestone Custom Cards Event | 4 | 1 | 1 | 2 | - | - | **25**% |
+| [`contributionHonorGift`](./special/contributionHonorGift) | 🎖️ Contribution Honor Card | 4 | 4 | - | - | - | - | **100**% |
+| [`survey`](./special/survey) | 📋 Survey Participation Reward | 2 | - | 1 | 1 | - | - | **0**% |
 
 ## By Staff
 

@@ -110,7 +110,7 @@ ForEach ($cat in $jsonIndex) {
         }
 
         $markdown += @"
-`n| [``$($edi.id)``]($($itemPath)) | $($edi.emojiVisualIdentifier) $($edi.title) | $($staff) | $($archived) | $($invalid) | $($progress) | $($halted) | $($unknown) | $(If ($archived -eq 0) {"**0**"} Else {($archived / $staff * 100).ToString('**#**.##')})% |
+`n| [``$($edi.id)``]($($itemPath)) | $($edi.emojiVisualIdentifier) $($edi.title) | $($staff) | $($archived) | $($invalid) | $($progress) | $($halted) | $($unknown) | $(If ($archived -eq 0 -or $archived -eq '-') {"**0**"} Else {($archived / $staff * 100).ToString('**#**.##')})% |
 "@
     }
 }

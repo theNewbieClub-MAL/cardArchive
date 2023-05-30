@@ -1680,7 +1680,7 @@
                         },
                         {
                             "id": "Annie_Law",
-                            "status": "progress"
+                            "status": "archived"
                         }
                     ]
                 },
@@ -1782,7 +1782,7 @@
                     "contributors": [
                         {
                             "id": "aichaun",
-                            "status": "progress"
+                            "status": "archived"
                         }
                     ]
                 },
@@ -1815,7 +1815,12 @@
                             "status": "progress"
                         }
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "category": "2023",
+            "editions": [
                 {
                     "id": "2301A",
                     "path": "2301A-20kMembersMilestone",
@@ -1846,7 +1851,7 @@
                         },
                         {
                             "id": "MentalIllnessDN",
-                            "status": "progress"
+                            "status": "archived"
                         }
                     ]
                 }
