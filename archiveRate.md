@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 9:22:43 PM UTC+00:00, May 30, 2023
+**Last Updated:** 9:29:04 PM UTC+00:00, May 30, 2023
 
 ## Global Statistics
 
@@ -17,8 +17,8 @@
 | Total of participations     | 242 |
 | Archived                    | 123 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 7 |
-| Halted                      | 5 |
+| Currently designing         | 6 |
+| Halted                      | 6 |
 | Unknown                     | 30 |
 | **Archival rate, globally** | 50.826% |
 
@@ -87,7 +87,7 @@
 | [`2105B`](./2021/2105B-gaming) | 🎮 Gaming | 5 | 2 | 3 | - | - | - | **40**% |
 | [`2106A`](./2021/2106A-purple) | 💜 Purple | 5 | 3 | 2 | - | - | - | **60**% |
 | [`2106B`](./2021/2106B-attackOnTitan) | ⚔️ Attack on Titan | 2 | - | 2 | - | - | - | **0**% |
-| [`2107A`](./2021/2107A-summer) | 🌞 Summer | 5 | 2 | 2 | 1 | - | - | **40**% |
+| [`2107A`](./2021/2107A-summer) | 🌞 Summer | 5 | 2 | 2 | - | 1 | - | **40**% |
 | [`2107B`](./2021/2107B-naruto) | 🍜 Naruto | 4 | 3 | 1 | - | - | - | **75**% |
 | [`2108A`](./2021/2108A-sports) | ⚽ Sports | 3 | 2 | 1 | - | - | - | **66**.67% |
 | [`2108B`](./2021/2108B-fateSeries) | 🗡️ Fate Series | 4 | 2 | 2 | - | - | - | **50**% |

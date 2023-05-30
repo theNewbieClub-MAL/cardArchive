@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 9:20:32 PM UTC+00:00, May 30, 2023
+**Last Updated:** 9:29:03 PM UTC+00:00, May 30, 2023
 
 ## Table of Contents
 
@@ -243,7 +243,7 @@
   * harukaisthebae &mdash; ⚠️ No cards from this staff were archived due to the link is invalid/missing
 * [🌞 Summer `2107A`](./2021/2107A-summer)
   * [aichaun](./2021/2107A-summer/aichaun)
-  * harukaisthebae &mdash; 💳 Cards are being created by staff
+  * harukaisthebae &mdash; 🚪 Staff left before finishing the requests
   * MelissaWolf &mdash; ⚠️ No cards from this staff were archived due to the link is invalid/missing
   * [Mifuyu-Iris](./2021/2107A-summer/Mifuyu-Iris)
   * Yes_Im_Lumzing &mdash; ⚠️ No cards from this staff were archived due to the link is invalid/missing
