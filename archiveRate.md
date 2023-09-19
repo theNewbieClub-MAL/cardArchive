@@ -6,21 +6,21 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 9:29:04 PM UTC+00:00, May 30, 2023
+**Last Updated:** 6:57:12 PM UTC+00:00, September 19, 2023
 
 ## Global Statistics
 
 | Data                        | Values |
 | :-------------------------- | :----: |
-| Edition released            | 80 |
+| Edition released            | 81 |
 | Total club staff            | 43 |
-| Total of participations     | 242 |
+| Total of participations     | 243 |
 | Archived                    | 123 |
 | Missing/invalid links       | 77 |
-| Currently designing         | 6 |
+| Currently designing         | 7 |
 | Halted                      | 6 |
 | Unknown                     | 30 |
-| **Archival rate, globally** | 50.826% |
+| **Archival rate, globally** | 50.617% |
 
 ## By Categories/Year of Releases
 
@@ -127,6 +127,7 @@
 | :-: | :------------ | :---: | :------: | :-------------: | :------: | :----: | :-----: | :--: |
 | [`2301A`](./2023/2301A-20kMembersMilestone) | 🎉 20K Members Milestone | 1 | - | - | 1 | - | - | **0**% |
 | [`2302A`](./2023/2302A-editionCompilation) | 📦 Edition Compilation | 2 | 1 | - | 1 | - | - | **50**% |
+| [`2302B`](./2023/2302B-valentine) | 💖 Valentine | 1 | - | - | 1 | - | - | **0**% |
 
 ### special
 

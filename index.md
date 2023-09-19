@@ -6,7 +6,7 @@
 
 ***__Do not modify the file__***
 
-**Last Updated:** 9:29:03 PM UTC+00:00, May 30, 2023
+**Last Updated:** 6:57:12 PM UTC+00:00, September 19, 2023
 
 ## Table of Contents
 
@@ -347,6 +347,8 @@
 * [📦 Edition Compilation `2302A`](./2023/2302A-editionCompilation)
   * nattadasu &mdash; 💳 Cards are being created by staff
   * [MentalIllnessDN](./2023/2302A-editionCompilation/MentalIllnessDN)
+* [💖 Valentine `2302B`](./2023/2302B-valentine)
+  * MelissaWolf &mdash; 💳 Cards are being created by staff
 
 ## special
 
